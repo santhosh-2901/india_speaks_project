@@ -1,0 +1,730 @@
+utterance_id,audio_path,language,speaker_id,gender,transcription_raw,duration_sec,noise_level_db,collection_source,quality_flag,rejection_reason
+utt_0004,s3://india-speaks/raw/ml/utt_0004.wav,ml,db8db256,Other,aaya kaise aaya,1.71,29.97,call-center,0,LOW_QUALITY_FLAG
+utt_0005,s3://india-speaks/raw/pa/utt_0005.wav,kn,6f4412bf,Other,namaste se namaste naam ho,4.98,42.92,call-center,0,LOW_QUALITY_FLAG
+utt_0012,s3://india-speaks/raw/ur/utt_0012.wav,gu,1a5e622c,Other,namaste mera se aaya ho,0.8,47.11,crowdsourced,0,LOW_QUALITY_FLAG
+utt_0013,s3://india-speaks/raw/pa/utt_0013.wav,bn,d6104a81,M,hai swagat namaste swagat mera hai,4.32,51.48,studio,0,LOW_QUALITY_FLAG
+utt_0015,s3://india-speaks/raw/bn/utt_0015.wav,pa,8ac799cc,M,hai dilli mera,1.64,49.48,crowdsourced,0,LOW_QUALITY_FLAG
+utt_0016,s3://india-speaks/raw/ml/utt_0016.wav,bn,dc2488e1,Other,dilli hu kaise dilli swagat swagat hu kaise namaste namaste,3.6,49.46,call-center,0,LOW_QUALITY_FLAG
+utt_0019,s3://india-speaks/raw/ur/utt_0019.wav,pa,7d6b7cba,F,,1.31,50.8,crowdsourced,-1,AUDIO_CORRUPT_SIMULATED
+utt_0022,s3://india-speaks/raw/bn/utt_0022.wav,te,0b08945e,M,aaya dilli naam aaya hai aapka,2.81,43.41,studio,0,LOW_QUALITY_FLAG
+utt_0027,s3://india-speaks/raw/pa/utt_0027.wav,en,c4fd46bc,F,naam aapka aapka ho kaise naam mera,1.82,48.17,studio,0,LOW_QUALITY_FLAG
+utt_0028,s3://india-speaks/raw/kn/utt_0028.wav,ta,4c24f7fb,F,ho ho kaise mera hai namaste ho hai namaste,4.04,32.16,call-center,0,LOW_QUALITY_FLAG
+utt_0029,s3://india-speaks/raw/ml/utt_0029.wav,pa,435b96cc,Other,se mera hai se hu aapka namaste,0.72,46.65,call-center,0,LOW_QUALITY_FLAG
+utt_0036,s3://india-speaks/raw/mr/utt_0036.wav,en,01235097,M,hai dilli mera hai kaise,4.58,22.61,studio,0,LOW_QUALITY_FLAG
+utt_0041,s3://india-speaks/raw/ta/utt_0041.wav,ta,33c7dbae,M,namaste mera swagat aaya ho swagat aapka mera mera namaste,2.97,58.58,studio,0,LOW_QUALITY_FLAG
+utt_0045,s3://india-speaks/raw/ml/utt_0045.wav,pa,5d6d3068,F,kaise se se ho se aaya ho swagat hai ho,3.65,22.21,crowdsourced,0,LOW_QUALITY_FLAG
+utt_0046,s3://india-speaks/raw/hi/utt_0046.wav,kn,8cb7d330,F,dilli aapka dilli namaste aaya,3.5,32.05,crowdsourced,0,LOW_QUALITY_FLAG
+utt_0047,s3://india-speaks/raw/ml/utt_0047.wav,en,585ca2b4,Other,hai namaste dilli aaya aaya ho dilli,4.91,38.21,crowdsourced,0,LOW_QUALITY_FLAG
+utt_0052,s3://india-speaks/raw/gu/utt_0052.wav,kn,1902ab2c,Other,ho swagat dilli aaya mera,2.92,40.27,studio,0,LOW_QUALITY_FLAG
+utt_0053,s3://india-speaks/raw/kn/utt_0053.wav,kn,8c4c243f,F,se se hai,4.46,29.11,studio,0,LOW_QUALITY_FLAG
+utt_0056,s3://india-speaks/raw/gu/utt_0056.wav,kn,45eb2662,Other,hai namaste hu aapka se hai,1.94,31.65,studio,0,LOW_QUALITY_FLAG
+utt_0057,s3://india-speaks/raw/gu/utt_0057.wav,ml,54c85161,F,ho aapka kaise,3.29,41.89,call-center,0,LOW_QUALITY_FLAG
+utt_0063,s3://india-speaks/raw/ta/utt_0063.wav,ur,57ae04fe,F,kaise hai hai naam hu hai hai aaya kaise dilli,1.24,51.05,crowdsourced,0,LOW_QUALITY_FLAG
+utt_0065,s3://india-speaks/raw/mr/utt_0065.wav,te,33dcc8ef,F,hai dilli hu,3.5,40.64,studio,0,LOW_QUALITY_FLAG
+utt_0069,s3://india-speaks/raw/ur/utt_0069.wav,kn,bd5f646e,M,naam se hu hai aapka,0.91,23.47,crowdsourced,0,LOW_QUALITY_FLAG
+utt_0074,s3://india-speaks/raw/te/utt_0074.wav,hi,94f73c78,Other,kaise hai hai naam mera kaise dilli,4.02,42.36,studio,0,LOW_QUALITY_FLAG
+utt_0077,s3://india-speaks/raw/pa/utt_0077.wav,hi,ed1d0c80,Other,hu se dilli kaise dilli hai kaise namaste ho,3.87,47.62,crowdsourced,0,LOW_QUALITY_FLAG
+utt_0078,s3://india-speaks/raw/kn/utt_0078.wav,pa,3524e395,Other,hai namaste se hai hai dilli,4.6,38.2,call-center,0,LOW_QUALITY_FLAG
+utt_0081,s3://india-speaks/raw/ta/utt_0081.wav,hi,ebcb3cb5,Other,aaya swagat ho hai mera mera,1.37,45.44,studio,0,LOW_QUALITY_FLAG
+utt_0084,s3://india-speaks/raw/pa/utt_0084.wav,te,59eb8a63,F,mera hai dilli swagat kaise dilli swagat swagat hu,1.75,50.32,call-center,0,LOW_QUALITY_FLAG
+utt_0086,s3://india-speaks/raw/ta/utt_0086.wav,hi,90258c5e,M,aaya swagat hai kaise,3.38,50.16,call-center,1,AUDIO_CORRUPT_SIMULATED
+utt_0094,s3://india-speaks/raw/te/utt_0094.wav,bn,9d9f05a6,M,hai hai mera dilli se kaise hu hu,1.24,37.4,studio,0,LOW_QUALITY_FLAG
+utt_0095,s3://india-speaks/raw/hi/utt_0095.wav,hi,81cfc7d6,F,dilli hai swagat aapka,4.03,35.1,studio,0,LOW_QUALITY_FLAG
+utt_0098,s3://india-speaks/raw/kn/utt_0098.wav,ta,010e838c,F,hu kaise kaise hai dilli,1.33,41.76,studio,0,LOW_QUALITY_FLAG
+utt_0101,s3://india-speaks/raw/kn/utt_0101.wav,kn,a3ee31ae,F,se swagat aapka aapka aapka dilli hu dilli aapka,2.25,53.11,call-center,0,LOW_QUALITY_FLAG
+utt_0102,s3://india-speaks/raw/mr/utt_0102.wav,ur,38f62992,M,hu naam namaste namaste mera aaya hu kaise,3.44,38.01,studio,0,LOW_QUALITY_FLAG
+utt_0109,s3://india-speaks/raw/te/utt_0109.wav,ml,6a06da33,Other,ho mera hai dilli swagat aaya ho aapka dilli,3.31,43.66,call-center,0,LOW_QUALITY_FLAG
+utt_0111,s3://india-speaks/raw/mr/utt_0111.wav,te,aa2084d6,F,ho mera aaya swagat se,3.23,26.05,call-center,0,LOW_QUALITY_FLAG
+utt_0112,s3://india-speaks/raw/ur/utt_0112.wav,bn,bbb62b6f,M,kaise aaya aapka,1.57,49.68,call-center,0,LOW_QUALITY_FLAG
+utt_0114,s3://india-speaks/raw/ta/utt_0114.wav,mr,8de73438,M,swagat namaste hu hai naam hu hai ho namaste hai,4.42,45.76,call-center,0,LOW_QUALITY_FLAG
+utt_0118,s3://india-speaks/raw/kn/utt_0118.wav,bn,f2b540c4,M,ho dilli ho se se,4.26,51.11,crowdsourced,0,LOW_QUALITY_FLAG
+utt_0122,s3://india-speaks/raw/bn/utt_0122.wav,hi,c38c41f8,F,aapka aapka hai,2.27,37.75,studio,0,LOW_QUALITY_FLAG
+utt_0126,s3://india-speaks/raw/hi/utt_0126.wav,hi,c94194de,M,naam swagat kaise aapka hai,4.91,54.84,crowdsourced,0,LOW_QUALITY_FLAG
+utt_0133,s3://india-speaks/raw/en/utt_0133.wav,en,656dc89c,F,swagat dilli hai se,0.61,58.94,crowdsourced,0,LOW_QUALITY_FLAG
+utt_0141,s3://india-speaks/raw/hi/utt_0141.wav,pa,9661dd2a,Other,hai dilli hu se aaya mera naam naam,1.77,57.35,studio,0,LOW_QUALITY_FLAG
+utt_0147,s3://india-speaks/raw/hi/utt_0147.wav,kn,69aecb28,F,,0.69,47.5,crowdsourced,0,LOW_QUALITY_FLAG
+utt_0148,s3://india-speaks/raw/te/utt_0148.wav,pa,543898ea,M,ho namaste ho swagat mera,3.93,28.42,call-center,0,LOW_QUALITY_FLAG
+utt_0149,s3://india-speaks/raw/gu/utt_0149.wav,te,970c2cbd,M,aapka mera swagat hai swagat ho hai ho swagat,4.93,41.65,studio,0,LOW_QUALITY_FLAG
+utt_0155,s3://india-speaks/raw/ml/utt_0155.wav,ur,c642854e,F,aapka hu se aapka kaise namaste hai namaste se,3.46,35.77,crowdsourced,0,LOW_QUALITY_FLAG
+utt_0156,s3://india-speaks/raw/kn/utt_0156.wav,ur,da258327,M,ho hai mera,2.97,56.83,studio,0,LOW_QUALITY_FLAG
+utt_0157,s3://india-speaks/raw/mr/utt_0157.wav,pa,5d8a6934,Other,hai dilli swagat hai aapka hai,3.86,30.24,studio,0,LOW_QUALITY_FLAG
+utt_0159,s3://india-speaks/raw/te/utt_0159.wav,te,f015ca51,Other,ho hai swagat aapka namaste,2.14,20.67,call-center,0,LOW_QUALITY_FLAG
+utt_0161,s3://india-speaks/raw/gu/utt_0161.wav,gu,4c6b5c18,Other,kaise mera mera hai hai hai,3.73,31.8,crowdsourced,0,LOW_QUALITY_FLAG
+utt_0168,s3://india-speaks/raw/hi/utt_0168.wav,ur,6dbf3914,M,aaya dilli se naam kaise kaise hai,3.3,50.26,call-center,0,LOW_QUALITY_FLAG
+utt_0170,s3://india-speaks/raw/en/utt_0170.wav,pa,7c97261b,M,dilli ho hai aaya hu swagat,1.58,32.02,call-center,0,LOW_QUALITY_FLAG
+utt_0174,s3://india-speaks/raw/ur/utt_0174.wav,ml,3d07fe5c,M,hu hai se hai hai se mera,4.2,34.35,call-center,0,LOW_QUALITY_FLAG
+utt_0175,s3://india-speaks/raw/ur/utt_0175.wav,pa,9c13eb94,Other,,4.13,20.13,crowdsourced,0,LOW_QUALITY_FLAG
+utt_0176,s3://india-speaks/raw/gu/utt_0176.wav,ml,dd6e9541,M,kaise hu aaya hai aapka aaya hai hu,2.94,26.06,call-center,0,LOW_QUALITY_FLAG
+utt_0177,s3://india-speaks/raw/gu/utt_0177.wav,ta,21c35910,M,se swagat hu,0.51,42.75,studio,0,LOW_QUALITY_FLAG
+utt_0184,s3://india-speaks/raw/en/utt_0184.wav,en,d6e1e109,M,aapka mera dilli se naam kaise namaste se dilli,3.11,23.31,studio,0,LOW_QUALITY_FLAG
+utt_0187,s3://india-speaks/raw/gu/utt_0187.wav,pa,85ed9939,M,aaya aapka aapka dilli aaya se hai mera,1.34,37.17,studio,0,LOW_QUALITY_FLAG
+utt_0188,s3://india-speaks/raw/en/utt_0188.wav,ur,5cae224b,M,hai aapka se aapka hai mera se,2.22,23.2,studio,0,LOW_QUALITY_FLAG
+utt_0189,s3://india-speaks/raw/en/utt_0189.wav,pa,d1824fbc,F,namaste ho aapka hai swagat aaya,4.4,39.49,crowdsourced,0,LOW_QUALITY_FLAG
+utt_0193,s3://india-speaks/raw/pa/utt_0193.wav,gu,568c56c5,Other,hai hai aaya hai mera kaise hai,4.74,35.19,crowdsourced,0,LOW_QUALITY_FLAG
+utt_0195,s3://india-speaks/raw/hi/utt_0195.wav,kn,cb9dfaa0,F,ho dilli se mera namaste,2.54,56.59,crowdsourced,0,LOW_QUALITY_FLAG
+utt_0196,s3://india-speaks/raw/ur/utt_0196.wav,en,2a05d99b,M,aapka kaise aapka dilli kaise mera mera,2.98,31.47,call-center,0,LOW_QUALITY_FLAG
+utt_0197,s3://india-speaks/raw/ml/utt_0197.wav,ur,aa3b0d9e,F,aapka hu aaya kaise naam naam mera mera,3.18,59.59,call-center,0,LOW_QUALITY_FLAG
+utt_0205,s3://india-speaks/raw/gu/utt_0205.wav,te,e12ffc84,Other,dilli dilli hai ho kaise,0.56,58.13,call-center,0,LOW_QUALITY_FLAG
+utt_0207,s3://india-speaks/raw/ml/utt_0207.wav,kn,745ded0f,Other,,2.17,37.76,studio,0,LOW_QUALITY_FLAG
+utt_0208,s3://india-speaks/raw/ml/utt_0208.wav,ur,dc7327ec,Other,namaste se hai aaya naam,1.14,26.09,crowdsourced,0,LOW_QUALITY_FLAG
+utt_0211,s3://india-speaks/raw/ur/utt_0211.wav,gu,ad46abb1,F,se mera kaise hai,4.78,36.76,studio,0,LOW_QUALITY_FLAG
+utt_0212,s3://india-speaks/raw/ur/utt_0212.wav,ta,b63edef9,F,namaste kaise ho hai aapka,1.61,52.87,call-center,0,LOW_QUALITY_FLAG
+utt_0220,s3://india-speaks/raw/en/utt_0220.wav,te,5d5b07fc,Other,dilli swagat hu mera dilli,4.69,31.73,studio,0,LOW_QUALITY_FLAG
+utt_0227,s3://india-speaks/raw/ta/utt_0227.wav,hi,154fe646,M,kaise hai mera hai aaya hai hai hai,4.09,38.76,crowdsourced,0,LOW_QUALITY_FLAG
+utt_0228,s3://india-speaks/raw/gu/utt_0228.wav,te,cddff324,M,dilli naam swagat aapka kaise naam,1.7,26.54,crowdsourced,0,LOW_QUALITY_FLAG
+utt_0229,s3://india-speaks/raw/bn/utt_0229.wav,ur,24751ae5,F,ho mera aapka mera hai aaya,2.78,42.84,call-center,0,LOW_QUALITY_FLAG
+utt_0231,s3://india-speaks/raw/ta/utt_0231.wav,gu,0a10cb0d,F,kaise kaise hu mera dilli mera hai namaste swagat,2.7,45.82,crowdsourced,0,LOW_QUALITY_FLAG
+utt_0241,s3://india-speaks/raw/te/utt_0241.wav,pa,029e44cf,Other,dilli hai ho ho,4.91,23.09,call-center,0,LOW_QUALITY_FLAG
+utt_0242,s3://india-speaks/raw/gu/utt_0242.wav,te,3d2be11c,Other,mera dilli aapka swagat ho swagat naam naam kaise,1.87,47.68,call-center,0,LOW_QUALITY_FLAG
+utt_0244,s3://india-speaks/raw/kn/utt_0244.wav,pa,3c22b327,M,mera dilli hu aapka,3.97,55.72,crowdsourced,0,LOW_QUALITY_FLAG
+utt_0245,s3://india-speaks/raw/kn/utt_0245.wav,pa,a1272c05,M,hai aaya swagat,3.59,22.49,call-center,0,LOW_QUALITY_FLAG
+utt_0248,s3://india-speaks/raw/gu/utt_0248.wav,mr,40628372,Other,,2.47,33.0,crowdsourced,0,LOW_QUALITY_FLAG
+utt_0253,s3://india-speaks/raw/en/utt_0253.wav,ml,01be5b74,M,hai naam hu,2.98,35.92,call-center,0,LOW_QUALITY_FLAG
+utt_0257,s3://india-speaks/raw/bn/utt_0257.wav,hi,50c3180f,M,aapka hu aapka aapka,3.41,58.15,studio,0,LOW_QUALITY_FLAG
+utt_0260,s3://india-speaks/raw/pa/utt_0260.wav,hi,d0f0c04f,M,kaise kaise aaya se swagat namaste swagat naam naam,2.26,47.2,crowdsourced,0,LOW_QUALITY_FLAG
+utt_0271,s3://india-speaks/raw/kn/utt_0271.wav,en,d95db05a,F,swagat kaise aapka kaise,4.2,46.42,crowdsourced,0,LOW_QUALITY_FLAG
+utt_0273,s3://india-speaks/raw/ur/utt_0273.wav,en,75eeb7c7,F,swagat naam kaise hai namaste hai swagat swagat,4.59,25.33,call-center,0,LOW_QUALITY_FLAG
+utt_0277,s3://india-speaks/raw/ta/utt_0277.wav,hi,a6abdf02,F,namaste mera mera kaise namaste mera se ho hai,1.59,53.81,studio,0,LOW_QUALITY_FLAG
+utt_0279,s3://india-speaks/raw/mr/utt_0279.wav,en,5a62130b,F,se hu aapka swagat,3.34,36.11,call-center,0,LOW_QUALITY_FLAG
+utt_0280,s3://india-speaks/raw/kn/utt_0280.wav,ml,c3f8a6b1,M,aapka kaise hai ho swagat,4.63,39.87,studio,0,LOW_QUALITY_FLAG
+utt_0286,s3://india-speaks/raw/hi/utt_0286.wav,mr,68adca7f,F,namaste namaste swagat se swagat aapka swagat naam mera aaya,4.83,25.41,call-center,0,LOW_QUALITY_FLAG
+utt_0287,s3://india-speaks/raw/mr/utt_0287.wav,ur,cb4f5689,M,dilli hai aaya aapka aapka aaya ho,4.51,55.92,call-center,0,LOW_QUALITY_FLAG
+utt_0290,s3://india-speaks/raw/ta/utt_0290.wav,ta,13fbc402,M,hai ho hai hu aapka ho aapka mera mera namaste,3.78,21.51,studio,0,LOW_QUALITY_FLAG
+utt_0297,s3://india-speaks/raw/ml/utt_0297.wav,te,bc6bf17b,M,hai swagat kaise ho hu hai ho namaste,2.46,25.01,crowdsourced,0,LOW_QUALITY_FLAG
+utt_0299,s3://india-speaks/raw/ml/utt_0299.wav,gu,d7091e92,F,mera hai aapka,3.87,52.01,crowdsourced,0,LOW_QUALITY_FLAG
+utt_0300,s3://india-speaks/raw/ml/utt_0300.wav,kn,46a189e6,Other,se mera swagat aapka aapka hai dilli,2.77,46.48,call-center,0,LOW_QUALITY_FLAG
+utt_0304,s3://india-speaks/raw/hi/utt_0304.wav,hi,85e4f187,F,hai hai aaya ho ho,4.39,36.01,studio,0,LOW_QUALITY_FLAG
+utt_0305,s3://india-speaks/raw/hi/utt_0305.wav,kn,517e3945,Other,swagat naam dilli se aapka se naam,4.58,58.64,call-center,0,LOW_QUALITY_FLAG
+utt_0307,s3://india-speaks/raw/te/utt_0307.wav,kn,1b4cfd34,M,mera namaste hai ho swagat se aapka,2.97,59.89,studio,0,LOW_QUALITY_FLAG
+utt_0311,s3://india-speaks/raw/pa/utt_0311.wav,te,fc4e4902,F,aaya naam swagat ho aaya se aapka,4.78,21.92,call-center,0,LOW_QUALITY_FLAG
+utt_0312,s3://india-speaks/raw/te/utt_0312.wav,pa,b6ad5a0f,F,aapka naam hai aapka naam hai naam,4.22,36.54,studio,0,LOW_QUALITY_FLAG
+utt_0313,s3://india-speaks/raw/hi/utt_0313.wav,gu,7a565da5,M,aapka mera dilli mera hai kaise kaise mera hu,3.19,28.3,call-center,0,LOW_QUALITY_FLAG
+utt_0315,s3://india-speaks/raw/hi/utt_0315.wav,en,8a973caf,Other,se naam kaise hai aaya aaya namaste,4.93,27.97,studio,0,LOW_QUALITY_FLAG
+utt_0318,s3://india-speaks/raw/te/utt_0318.wav,hi,8d9c5311,Other,naam hai aaya aapka naam mera dilli,3.32,39.01,call-center,-1,AUDIO_CORRUPT_SIMULATED
+utt_0320,s3://india-speaks/raw/gu/utt_0320.wav,gu,ef9cab0b,Other,dilli hu se hai swagat namaste aapka,0.53,22.6,studio,0,LOW_QUALITY_FLAG
+utt_0324,s3://india-speaks/raw/pa/utt_0324.wav,ml,4224954f,M,swagat dilli naam mera hai hai,3.82,55.59,crowdsourced,0,LOW_QUALITY_FLAG
+utt_0325,s3://india-speaks/raw/ur/utt_0325.wav,en,47a31387,M,kaise hai ho se mera se aapka hai aapka ho,4.15,46.49,call-center,0,LOW_QUALITY_FLAG
+utt_0327,s3://india-speaks/raw/ta/utt_0327.wav,bn,d04ecfa1,M,,3.03,40.38,studio,0,LOW_QUALITY_FLAG
+utt_0328,s3://india-speaks/raw/bn/utt_0328.wav,ml,ae18e73c,F,mera dilli hai hu kaise,0.85,38.01,call-center,0,LOW_QUALITY_FLAG
+utt_0330,s3://india-speaks/raw/gu/utt_0330.wav,en,5fa3ff17,F,ho aaya aapka se hai hu namaste se,2.62,38.1,call-center,0,LOW_QUALITY_FLAG
+utt_0333,s3://india-speaks/raw/pa/utt_0333.wav,en,1cb3130a,F,kaise hai se aaya se aapka aaya dilli kaise hu,0.83,21.03,crowdsourced,0,LOW_QUALITY_FLAG
+utt_0339,s3://india-speaks/raw/ta/utt_0339.wav,ml,2049bc70,F,hai hu dilli mera swagat,3.74,35.04,studio,0,LOW_QUALITY_FLAG
+utt_0341,s3://india-speaks/raw/mr/utt_0341.wav,ur,837a9f22,M,aapka swagat naam kaise,1.59,38.23,crowdsourced,0,LOW_QUALITY_FLAG
+utt_0342,s3://india-speaks/raw/kn/utt_0342.wav,kn,fb979a6d,F,aaya hai dilli namaste aaya hu namaste,3.06,53.59,call-center,0,LOW_QUALITY_FLAG
+utt_0347,s3://india-speaks/raw/te/utt_0347.wav,en,b5508250,F,kaise namaste ho,2.53,25.36,studio,0,LOW_QUALITY_FLAG
+utt_0349,s3://india-speaks/raw/ta/utt_0349.wav,ur,c265d7ad,M,mera hai ho hai aaya hu namaste namaste se se,3.21,26.15,call-center,0,LOW_QUALITY_FLAG
+utt_0350,s3://india-speaks/raw/te/utt_0350.wav,pa,a8ba2d00,Other,hai dilli naam namaste dilli dilli ho ho aapka,2.74,51.3,call-center,0,LOW_QUALITY_FLAG
+utt_0351,s3://india-speaks/raw/hi/utt_0351.wav,en,97402052,Other,kaise kaise aaya hai aapka namaste ho dilli,4.03,23.25,crowdsourced,0,LOW_QUALITY_FLAG
+utt_0353,s3://india-speaks/raw/pa/utt_0353.wav,ta,3cf57049,Other,namaste ho hai kaise,3.36,34.81,crowdsourced,0,LOW_QUALITY_FLAG
+utt_0356,s3://india-speaks/raw/kn/utt_0356.wav,ta,100b8f8c,Other,aaya hai aaya kaise naam aapka kaise,4.21,58.48,studio,0,LOW_QUALITY_FLAG
+utt_0357,s3://india-speaks/raw/en/utt_0357.wav,ml,ccec4c6c,Other,hai swagat aapka hu swagat dilli swagat kaise se aapka,0.96,34.89,crowdsourced,0,LOW_QUALITY_FLAG
+utt_0358,s3://india-speaks/raw/hi/utt_0358.wav,ta,5ee792ca,F,hai ho aapka mera namaste hai kaise se aapka hai,3.56,49.37,studio,0,LOW_QUALITY_FLAG
+utt_0360,s3://india-speaks/raw/en/utt_0360.wav,ur,97be4367,Other,aaya aaya se naam dilli kaise se ho,0.61,54.7,call-center,0,LOW_QUALITY_FLAG
+utt_0361,s3://india-speaks/raw/gu/utt_0361.wav,ta,2234cb3c,M,se naam hu,4.92,50.77,call-center,0,LOW_QUALITY_FLAG
+utt_0370,s3://india-speaks/raw/hi/utt_0370.wav,hi,8eeaafd5,Other,aapka aapka swagat naam se hai namaste ho hai namaste,1.01,50.58,call-center,0,LOW_QUALITY_FLAG
+utt_0371,s3://india-speaks/raw/hi/utt_0371.wav,kn,a7759122,F,kaise ho hai mera hu hai swagat namaste,3.14,55.31,studio,0,LOW_QUALITY_FLAG
+utt_0375,s3://india-speaks/raw/ml/utt_0375.wav,mr,8cd79f2a,M,naam hai mera,3.45,46.15,crowdsourced,0,LOW_QUALITY_FLAG
+utt_0377,s3://india-speaks/raw/pa/utt_0377.wav,gu,838004af,M,dilli ho hu ho,4.36,51.4,call-center,0,LOW_QUALITY_FLAG
+utt_0378,s3://india-speaks/raw/gu/utt_0378.wav,ta,d1a98766,M,aaya hai naam ho,0.57,39.35,studio,0,LOW_QUALITY_FLAG
+utt_0383,s3://india-speaks/raw/en/utt_0383.wav,hi,22672d96,M,mera mera ho ho aapka,2.64,35.94,crowdsourced,0,LOW_QUALITY_FLAG
+utt_0385,s3://india-speaks/raw/gu/utt_0385.wav,ur,414d1d40,F,namaste aaya hu,2.05,30.01,call-center,0,LOW_QUALITY_FLAG
+utt_0387,s3://india-speaks/raw/en/utt_0387.wav,ur,f1ca296b,M,,4.84,53.68,studio,0,LOW_QUALITY_FLAG
+utt_0388,s3://india-speaks/raw/bn/utt_0388.wav,ur,c1d1dcb3,F,kaise ho mera naam hu aapka hai kaise naam aaya,1.03,40.13,call-center,0,LOW_QUALITY_FLAG
+utt_0389,s3://india-speaks/raw/en/utt_0389.wav,ur,7d3a3357,F,hai kaise dilli hu namaste hu aaya dilli ho,2.37,27.13,crowdsourced,0,LOW_QUALITY_FLAG
+utt_0394,s3://india-speaks/raw/ta/utt_0394.wav,en,bcb75125,Other,kaise hai hu,0.55,45.81,call-center,0,LOW_QUALITY_FLAG
+utt_0395,s3://india-speaks/raw/ml/utt_0395.wav,hi,d0efedbe,M,mera se hai aapka dilli se ho ho hai aaya,4.49,27.74,call-center,0,LOW_QUALITY_FLAG
+utt_0397,s3://india-speaks/raw/pa/utt_0397.wav,bn,dd65eba2,M,mera hai hai mera se,3.39,39.18,studio,0,LOW_QUALITY_FLAG
+utt_0400,s3://india-speaks/raw/gu/utt_0400.wav,pa,e5f503f7,Other,hai aapka se dilli hai swagat,1.46,36.93,crowdsourced,0,LOW_QUALITY_FLAG
+utt_0404,s3://india-speaks/raw/te/utt_0404.wav,kn,c780cd43,F,aapka mera kaise aapka dilli dilli se mera se,1.09,49.05,crowdsourced,0,LOW_QUALITY_FLAG
+utt_0408,s3://india-speaks/raw/pa/utt_0408.wav,mr,69c89669,M,,2.13,20.18,call-center,0,LOW_QUALITY_FLAG
+utt_0410,s3://india-speaks/raw/kn/utt_0410.wav,ta,1c0a6ead,F,aaya swagat se aaya kaise swagat dilli hu namaste,3.12,52.28,crowdsourced,0,LOW_QUALITY_FLAG
+utt_0416,s3://india-speaks/raw/mr/utt_0416.wav,gu,22fe30b3,Other,,4.05,58.5,crowdsourced,0,LOW_QUALITY_FLAG
+utt_0418,s3://india-speaks/raw/mr/utt_0418.wav,te,ad9243a1,F,mera namaste hai swagat hai hai mera hai aapka,2.18,20.48,call-center,0,LOW_QUALITY_FLAG
+utt_0420,s3://india-speaks/raw/te/utt_0420.wav,te,b9e3d64f,Other,ho naam namaste se,3.93,48.0,studio,0,LOW_QUALITY_FLAG
+utt_0421,s3://india-speaks/raw/hi/utt_0421.wav,te,de9702cf,F,naam hai kaise se hu aapka swagat aaya mera hai,1.97,55.08,call-center,0,LOW_QUALITY_FLAG
+utt_0422,s3://india-speaks/raw/hi/utt_0422.wav,bn,112b330c,Other,mera se dilli namaste mera ho dilli se namaste hai,0.88,49.32,studio,0,LOW_QUALITY_FLAG
+utt_0423,s3://india-speaks/raw/en/utt_0423.wav,ta,0cb4d718,M,hai swagat naam,3.15,40.64,call-center,0,LOW_QUALITY_FLAG
+utt_0424,s3://india-speaks/raw/bn/utt_0424.wav,mr,a3bbc512,F,kaise hai kaise dilli mera aaya hu aapka aapka dilli,4.78,26.35,crowdsourced,0,LOW_QUALITY_FLAG
+utt_0425,s3://india-speaks/raw/bn/utt_0425.wav,ur,b2e5fc7b,F,swagat dilli swagat,4.03,27.13,crowdsourced,0,LOW_QUALITY_FLAG
+utt_0427,s3://india-speaks/raw/en/utt_0427.wav,kn,07d1164f,F,ho hai ho hai aaya hai mera naam kaise,1.25,47.11,crowdsourced,0,LOW_QUALITY_FLAG
+utt_0430,s3://india-speaks/raw/bn/utt_0430.wav,ml,c59d02b2,M,hu namaste dilli swagat,3.66,43.46,call-center,0,LOW_QUALITY_FLAG
+utt_0435,s3://india-speaks/raw/en/utt_0435.wav,kn,7163b450,M,aapka mera namaste aapka hu,0.66,38.76,studio,0,LOW_QUALITY_FLAG
+utt_0439,s3://india-speaks/raw/gu/utt_0439.wav,ur,dc33999e,Other,hai swagat aaya aaya se kaise ho hai aaya,2.59,26.13,call-center,0,LOW_QUALITY_FLAG
+utt_0440,s3://india-speaks/raw/mr/utt_0440.wav,pa,d6f66f59,F,kaise swagat dilli namaste ho mera,1.61,25.39,call-center,0,LOW_QUALITY_FLAG
+utt_0442,s3://india-speaks/raw/bn/utt_0442.wav,en,a17d42bd,Other,aaya aaya mera namaste,3.81,44.17,studio,0,LOW_QUALITY_FLAG
+utt_0443,s3://india-speaks/raw/ta/utt_0443.wav,hi,d2159d49,F,hai ho hu dilli hai namaste naam,2.97,34.16,call-center,0,LOW_QUALITY_FLAG
+utt_0449,s3://india-speaks/raw/ml/utt_0449.wav,te,30e9ef5b,M,aaya naam hu mera hu,4.25,33.64,call-center,0,LOW_QUALITY_FLAG
+utt_0452,s3://india-speaks/raw/hi/utt_0452.wav,ml,ddcd5345,F,kaise naam aapka,1.82,50.5,studio,0,LOW_QUALITY_FLAG
+utt_0455,s3://india-speaks/raw/en/utt_0455.wav,ml,be19a68d,F,aapka dilli hai se hai aaya swagat dilli aapka namaste,1.51,51.78,studio,0,LOW_QUALITY_FLAG
+utt_0458,s3://india-speaks/raw/kn/utt_0458.wav,hi,9a0caed8,M,namaste se ho mera swagat,0.54,30.05,studio,0,LOW_QUALITY_FLAG
+utt_0460,s3://india-speaks/raw/mr/utt_0460.wav,gu,f79a50f2,Other,hai mera namaste aapka hai swagat,3.89,33.13,call-center,0,LOW_QUALITY_FLAG
+utt_0461,s3://india-speaks/raw/ur/utt_0461.wav,mr,3cf8c84b,M,kaise kaise naam namaste dilli hai aaya namaste,3.16,42.92,crowdsourced,0,LOW_QUALITY_FLAG
+utt_0464,s3://india-speaks/raw/kn/utt_0464.wav,gu,834e660d,M,ho se hu ho,3.76,44.08,call-center,0,LOW_QUALITY_FLAG
+utt_0465,s3://india-speaks/raw/kn/utt_0465.wav,mr,75dd0621,Other,,3.77,42.56,crowdsourced,0,LOW_QUALITY_FLAG
+utt_0466,s3://india-speaks/raw/ta/utt_0466.wav,ta,bc77957e,F,aaya hu hu swagat hu dilli aapka,4.48,20.28,crowdsourced,0,LOW_QUALITY_FLAG
+utt_0470,s3://india-speaks/raw/mr/utt_0470.wav,hi,da3c6bb0,Other,dilli aapka aapka dilli aapka se,2.7,35.08,call-center,0,LOW_QUALITY_FLAG
+utt_0471,s3://india-speaks/raw/gu/utt_0471.wav,pa,f43de971,F,naam mera kaise hai hu namaste aaya swagat hai,0.54,31.56,studio,0,LOW_QUALITY_FLAG
+utt_0472,s3://india-speaks/raw/ml/utt_0472.wav,ta,d2f241bf,F,naam dilli aaya,4.54,29.18,studio,0,LOW_QUALITY_FLAG
+utt_0477,s3://india-speaks/raw/bn/utt_0477.wav,pa,d553f17e,F,ho dilli aapka se aaya mera se,2.97,46.29,studio,0,LOW_QUALITY_FLAG
+utt_0480,s3://india-speaks/raw/ta/utt_0480.wav,ur,ff82a8a3,F,namaste naam kaise ho hai dilli namaste hai,2.86,23.72,studio,0,LOW_QUALITY_FLAG
+utt_0482,s3://india-speaks/raw/ml/utt_0482.wav,ta,ecc0aebc,Other,hai ho hai hu hai,3.12,38.76,call-center,0,LOW_QUALITY_FLAG
+utt_0487,s3://india-speaks/raw/mr/utt_0487.wav,hi,e87e80f2,F,hai hai naam aaya hai,1.68,44.11,studio,0,LOW_QUALITY_FLAG
+utt_0488,s3://india-speaks/raw/ta/utt_0488.wav,ta,95d788bb,Other,swagat se hai hai mera se hai aapka swagat,3.04,22.26,crowdsourced,0,LOW_QUALITY_FLAG
+utt_0490,s3://india-speaks/raw/ml/utt_0490.wav,ur,5802cc43,F,mera naam kaise kaise se aapka aaya mera mera,0.94,29.93,call-center,0,LOW_QUALITY_FLAG
+utt_0493,s3://india-speaks/raw/hi/utt_0493.wav,bn,333b8744,M,dilli hai dilli,3.75,50.72,call-center,0,LOW_QUALITY_FLAG
+utt_0498,s3://india-speaks/raw/bn/utt_0498.wav,bn,4b3844b5,M,hai aapka hai,0.62,31.37,call-center,0,LOW_QUALITY_FLAG
+utt_0500,s3://india-speaks/raw/mr/utt_0500.wav,bn,be395aa3,F,aaya swagat kaise aaya swagat hu,2.6,41.13,studio,0,LOW_QUALITY_FLAG
+utt_0501,s3://india-speaks/raw/hi/utt_0501.wav,mr,09cf61e8,M,aapka namaste namaste naam ho hai ho hai,0.7,30.46,call-center,0,LOW_QUALITY_FLAG
+utt_0504,s3://india-speaks/raw/en/utt_0504.wav,bn,19005d6a,F,hai ho se,2.31,36.58,crowdsourced,0,LOW_QUALITY_FLAG
+utt_0505,s3://india-speaks/raw/kn/utt_0505.wav,pa,a57239dd,F,ho hu hai ho se aapka aaya dilli,1.94,33.2,crowdsourced,0,LOW_QUALITY_FLAG
+utt_0509,s3://india-speaks/raw/ur/utt_0509.wav,ta,b4b5a134,F,hai dilli naam hai dilli hai swagat,3.49,47.57,crowdsourced,0,LOW_QUALITY_FLAG
+utt_0513,s3://india-speaks/raw/kn/utt_0513.wav,hi,419ea8b4,M,aaya namaste hu kaise kaise swagat hai se se hai,2.71,51.06,call-center,0,LOW_QUALITY_FLAG
+utt_0517,s3://india-speaks/raw/bn/utt_0517.wav,en,80611332,F,hu hai hai,3.6,32.93,studio,0,LOW_QUALITY_FLAG
+utt_0521,s3://india-speaks/raw/mr/utt_0521.wav,ta,f5db003f,Other,dilli naam mera swagat mera mera hu,4.66,30.49,call-center,0,LOW_QUALITY_FLAG
+utt_0523,s3://india-speaks/raw/en/utt_0523.wav,ml,fd0e022d,F,kaise hu mera,3.4,52.8,call-center,0,LOW_QUALITY_FLAG
+utt_0525,s3://india-speaks/raw/en/utt_0525.wav,gu,0ff6a591,F,swagat aapka hai hai hai,4.1,57.35,crowdsourced,0,LOW_QUALITY_FLAG
+utt_0533,s3://india-speaks/raw/ta/utt_0533.wav,hi,3029ab47,Other,aaya naam naam naam ho,4.66,39.0,studio,0,LOW_QUALITY_FLAG
+utt_0536,s3://india-speaks/raw/mr/utt_0536.wav,hi,f4269e27,Other,naam hu aapka hai ho se se,1.92,31.58,crowdsourced,0,LOW_QUALITY_FLAG
+utt_0538,s3://india-speaks/raw/bn/utt_0538.wav,mr,710a8733,M,hu aaya kaise,0.68,39.57,call-center,0,LOW_QUALITY_FLAG
+utt_0544,s3://india-speaks/raw/hi/utt_0544.wav,te,7fd9d4f2,M,swagat swagat namaste naam se,2.03,38.3,call-center,0,LOW_QUALITY_FLAG
+utt_0547,s3://india-speaks/raw/pa/utt_0547.wav,en,9b31f4dc,F,,2.5,24.84,crowdsourced,0,LOW_QUALITY_FLAG
+utt_0550,s3://india-speaks/raw/ml/utt_0550.wav,ml,d79b6db7,F,dilli kaise swagat hu se kaise hai aapka,1.55,44.05,call-center,0,LOW_QUALITY_FLAG
+utt_0551,s3://india-speaks/raw/te/utt_0551.wav,mr,1c6b3a22,F,kaise ho hu,3.42,30.04,call-center,0,LOW_QUALITY_FLAG
+utt_0552,s3://india-speaks/raw/bn/utt_0552.wav,bn,71bb4eb5,Other,hu se ho aaya hai hu aapka hai,1.17,56.97,crowdsourced,0,LOW_QUALITY_FLAG
+utt_0554,s3://india-speaks/raw/mr/utt_0554.wav,ur,7792805c,M,namaste se aaya,1.07,41.39,call-center,0,LOW_QUALITY_FLAG
+utt_0555,s3://india-speaks/raw/ur/utt_0555.wav,hi,5fe15ccc,M,hai se ho swagat mera aapka se hai,3.42,59.49,studio,0,LOW_QUALITY_FLAG
+utt_0558,s3://india-speaks/raw/mr/utt_0558.wav,gu,501b7857,M,dilli dilli swagat aapka kaise swagat ho namaste hu,0.98,35.35,crowdsourced,0,LOW_QUALITY_FLAG
+utt_0559,s3://india-speaks/raw/mr/utt_0559.wav,ur,193d44bc,F,aaya mera aapka naam hai kaise mera aaya aapka,4.27,20.79,crowdsourced,0,LOW_QUALITY_FLAG
+utt_0560,s3://india-speaks/raw/kn/utt_0560.wav,en,d28f5540,F,hu hai aapka mera se naam aapka mera,2.19,30.82,call-center,0,LOW_QUALITY_FLAG
+utt_0565,s3://india-speaks/raw/bn/utt_0565.wav,ta,0039076e,M,swagat aaya hu ho hu ho hai ho,2.67,54.34,crowdsourced,0,LOW_QUALITY_FLAG
+utt_0567,s3://india-speaks/raw/ml/utt_0567.wav,en,de98a278,F,namaste kaise hai hu aapka swagat ho,1.94,42.77,crowdsourced,0,LOW_QUALITY_FLAG
+utt_0568,s3://india-speaks/raw/hi/utt_0568.wav,kn,bb5ff94c,M,aapka kaise ho naam hu hu hu,3.26,50.23,call-center,0,LOW_QUALITY_FLAG
+utt_0570,s3://india-speaks/raw/pa/utt_0570.wav,ta,0bb3fd38,M,se kaise swagat,3.57,34.75,studio,0,LOW_QUALITY_FLAG
+utt_0574,s3://india-speaks/raw/ur/utt_0574.wav,ur,e74f9a8e,M,swagat dilli naam namaste dilli aapka mera,4.22,47.03,crowdsourced,0,LOW_QUALITY_FLAG
+utt_0575,s3://india-speaks/raw/en/utt_0575.wav,gu,fa048f2e,F,ho swagat ho naam hai kaise,3.18,31.63,call-center,0,LOW_QUALITY_FLAG
+utt_0578,s3://india-speaks/raw/pa/utt_0578.wav,hi,add6cdc3,Other,aapka aaya dilli dilli aaya hu namaste se hai hai,1.9,34.55,call-center,0,LOW_QUALITY_FLAG
+utt_0591,s3://india-speaks/raw/ur/utt_0591.wav,mr,0660c408,Other,aaya dilli naam dilli mera ho dilli,2.97,42.61,crowdsourced,0,LOW_QUALITY_FLAG
+utt_0592,s3://india-speaks/raw/mr/utt_0592.wav,ur,ee65cede,Other,dilli aaya hai aaya,4.44,32.82,crowdsourced,0,LOW_QUALITY_FLAG
+utt_0594,s3://india-speaks/raw/kn/utt_0594.wav,hi,0f93b8bf,F,kaise swagat se hai,2.62,55.24,crowdsourced,0,LOW_QUALITY_FLAG
+utt_0596,s3://india-speaks/raw/bn/utt_0596.wav,gu,9554becd,M,hai namaste naam se ho naam naam,3.98,41.41,studio,0,LOW_QUALITY_FLAG
+utt_0600,s3://india-speaks/raw/hi/utt_0600.wav,bn,b1306a29,F,dilli dilli hai naam hu mera,2.56,26.27,call-center,0,LOW_QUALITY_FLAG
+utt_0603,s3://india-speaks/raw/en/utt_0603.wav,bn,432c498d,F,hai namaste dilli naam,4.88,31.47,studio,0,LOW_QUALITY_FLAG
+utt_0604,s3://india-speaks/raw/gu/utt_0604.wav,gu,c16f297c,Other,dilli mera dilli,1.77,50.33,crowdsourced,0,LOW_QUALITY_FLAG
+utt_0605,s3://india-speaks/raw/pa/utt_0605.wav,mr,14e70140,Other,swagat ho mera hai kaise naam aaya hu aapka,3.69,29.71,call-center,0,LOW_QUALITY_FLAG
+utt_0606,s3://india-speaks/raw/pa/utt_0606.wav,ta,bd10b284,M,aaya hu namaste dilli naam se namaste namaste,3.11,52.95,crowdsourced,0,LOW_QUALITY_FLAG
+utt_0607,s3://india-speaks/raw/kn/utt_0607.wav,bn,24ee5b30,F,dilli hai naam dilli swagat,4.96,57.65,studio,0,LOW_QUALITY_FLAG
+utt_0608,s3://india-speaks/raw/bn/utt_0608.wav,gu,2ddedfc8,M,dilli kaise aapka ho dilli hai se kaise mera aaya,1.21,36.78,studio,0,LOW_QUALITY_FLAG
+utt_0609,s3://india-speaks/raw/hi/utt_0609.wav,kn,e8292447,M,kaise dilli aaya mera swagat ho swagat,4.96,36.86,studio,0,LOW_QUALITY_FLAG
+utt_0612,s3://india-speaks/raw/ta/utt_0612.wav,pa,6c5f2118,M,namaste ho namaste,2.75,28.76,call-center,0,LOW_QUALITY_FLAG
+utt_0614,s3://india-speaks/raw/bn/utt_0614.wav,te,0b35cc22,F,naam aaya dilli aaya swagat aapka se namaste,1.5,46.45,studio,0,LOW_QUALITY_FLAG
+utt_0616,s3://india-speaks/raw/ur/utt_0616.wav,hi,fcf8e071,F,se kaise hai kaise,4.94,53.14,studio,0,LOW_QUALITY_FLAG
+utt_0617,s3://india-speaks/raw/te/utt_0617.wav,bn,152ebe1e,Other,aaya mera naam hu aaya,4.31,28.66,studio,0,LOW_QUALITY_FLAG
+utt_0619,s3://india-speaks/raw/bn/utt_0619.wav,en,668ca4a6,F,,4.98,50.55,call-center,0,LOW_QUALITY_FLAG
+utt_0626,s3://india-speaks/raw/ml/utt_0626.wav,ur,2d6af113,F,namaste kaise aaya,3.95,50.34,call-center,0,LOW_QUALITY_FLAG
+utt_0627,s3://india-speaks/raw/hi/utt_0627.wav,kn,86a3acf4,F,namaste hai se se hu hu se,3.29,39.0,call-center,0,LOW_QUALITY_FLAG
+utt_0628,s3://india-speaks/raw/en/utt_0628.wav,gu,3ef2ac3e,Other,namaste aapka hai hai aaya ho naam aaya hai,0.85,58.25,crowdsourced,0,LOW_QUALITY_FLAG
+utt_0629,s3://india-speaks/raw/en/utt_0629.wav,pa,4e82fc9f,M,ho namaste se kaise se swagat se,1.89,21.46,crowdsourced,0,LOW_QUALITY_FLAG
+utt_0630,s3://india-speaks/raw/ur/utt_0630.wav,ur,c9160ad1,F,hai ho dilli,3.42,46.55,crowdsourced,0,LOW_QUALITY_FLAG
+utt_0632,s3://india-speaks/raw/mr/utt_0632.wav,kn,e0da06f9,F,hu dilli dilli hai hai aaya hai,2.73,34.6,call-center,0,LOW_QUALITY_FLAG
+utt_0634,s3://india-speaks/raw/en/utt_0634.wav,ur,24ad33c3,Other,swagat dilli se hai naam ho aapka naam namaste,1.2,53.11,crowdsourced,0,LOW_QUALITY_FLAG
+utt_0637,s3://india-speaks/raw/ta/utt_0637.wav,pa,da9b806d,M,swagat hai kaise dilli,4.41,21.96,call-center,0,LOW_QUALITY_FLAG
+utt_0638,s3://india-speaks/raw/mr/utt_0638.wav,en,90b0bb18,Other,,0.54,34.74,call-center,-1,EMPTY_AFTER_NORMALIZATION
+utt_0640,s3://india-speaks/raw/pa/utt_0640.wav,mr,abe6f0a5,M,hai swagat hu,3.37,29.34,crowdsourced,0,LOW_QUALITY_FLAG
+utt_0643,s3://india-speaks/raw/ml/utt_0643.wav,te,6a9be4d1,M,,4.22,52.25,call-center,0,LOW_QUALITY_FLAG
+utt_0645,s3://india-speaks/raw/mr/utt_0645.wav,te,c28b370a,Other,ho aaya swagat hai dilli,2.88,33.69,call-center,0,LOW_QUALITY_FLAG
+utt_0646,s3://india-speaks/raw/pa/utt_0646.wav,hi,49f68654,M,hu aaya kaise namaste se aapka ho dilli naam,3.02,41.45,crowdsourced,-1,AUDIO_CORRUPT_SIMULATED
+utt_0647,s3://india-speaks/raw/ta/utt_0647.wav,bn,78c36dc4,F,aapka hai swagat ho aaya ho ho hu mera,3.04,28.17,call-center,0,LOW_QUALITY_FLAG
+utt_0648,s3://india-speaks/raw/ur/utt_0648.wav,hi,5c4ed09e,Other,aapka mera hai dilli naam hu dilli se kaise,2.45,40.44,crowdsourced,0,LOW_QUALITY_FLAG
+utt_0651,s3://india-speaks/raw/bn/utt_0651.wav,bn,a4c4d4a8,Other,ho hai hai dilli naam swagat,1.4,35.0,call-center,0,LOW_QUALITY_FLAG
+utt_0652,s3://india-speaks/raw/ml/utt_0652.wav,te,7c5b7918,Other,aapka kaise hai dilli dilli mera,0.83,54.99,call-center,0,LOW_QUALITY_FLAG
+utt_0653,s3://india-speaks/raw/en/utt_0653.wav,ur,846a95e9,F,hai se aapka,4.81,41.35,studio,0,LOW_QUALITY_FLAG
+utt_0654,s3://india-speaks/raw/ur/utt_0654.wav,ml,64fdea18,Other,,1.02,53.87,call-center,0,LOW_QUALITY_FLAG
+utt_0656,s3://india-speaks/raw/kn/utt_0656.wav,hi,4b5a9e3f,Other,hu hai namaste hai kaise,3.39,28.75,crowdsourced,0,LOW_QUALITY_FLAG
+utt_0657,s3://india-speaks/raw/pa/utt_0657.wav,kn,a6755896,M,mera dilli hai aapka naam aaya aapka ho mera hai,4.29,48.19,call-center,0,LOW_QUALITY_FLAG
+utt_0659,s3://india-speaks/raw/ml/utt_0659.wav,pa,358b48e3,F,swagat namaste hai se hu naam swagat aaya hu hu,1.63,38.94,call-center,0,LOW_QUALITY_FLAG
+utt_0662,s3://india-speaks/raw/gu/utt_0662.wav,hi,86a8fc21,F,hai naam hu,4.29,55.16,crowdsourced,0,LOW_QUALITY_FLAG
+utt_0663,s3://india-speaks/raw/ml/utt_0663.wav,en,dc722411,F,swagat hai mera aaya mera aaya namaste,2.66,30.94,call-center,0,LOW_QUALITY_FLAG
+utt_0664,s3://india-speaks/raw/kn/utt_0664.wav,te,a4351c58,M,hai hu kaise hai hu hai hai,3.71,28.99,call-center,0,LOW_QUALITY_FLAG
+utt_0665,s3://india-speaks/raw/gu/utt_0665.wav,gu,bb5925b0,M,aapka hu hai,2.47,22.95,studio,0,LOW_QUALITY_FLAG
+utt_0667,s3://india-speaks/raw/ta/utt_0667.wav,bn,50a10323,M,dilli kaise se aaya se ho kaise,2.67,25.35,crowdsourced,0,LOW_QUALITY_FLAG
+utt_0669,s3://india-speaks/raw/ml/utt_0669.wav,gu,79f68e90,F,namaste aapka dilli hai,4.08,31.45,studio,0,LOW_QUALITY_FLAG
+utt_0670,s3://india-speaks/raw/ur/utt_0670.wav,pa,0817c169,Other,swagat se se aaya,1.48,33.44,crowdsourced,0,LOW_QUALITY_FLAG
+utt_0672,s3://india-speaks/raw/gu/utt_0672.wav,kn,0c079f9e,Other,,4.69,50.04,call-center,0,LOW_QUALITY_FLAG
+utt_0675,s3://india-speaks/raw/pa/utt_0675.wav,en,099b15dd,F,aapka hu namaste se hai,1.12,34.64,call-center,0,LOW_QUALITY_FLAG
+utt_0676,s3://india-speaks/raw/en/utt_0676.wav,kn,21a15906,M,,1.88,55.38,call-center,0,LOW_QUALITY_FLAG
+utt_0689,s3://india-speaks/raw/pa/utt_0689.wav,hi,7dc28bf7,M,namaste kaise mera hai,0.67,39.63,call-center,0,LOW_QUALITY_FLAG
+utt_0692,s3://india-speaks/raw/bn/utt_0692.wav,mr,63ece712,Other,aaya aaya hai aaya mera hai,3.01,59.32,studio,0,LOW_QUALITY_FLAG
+utt_0693,s3://india-speaks/raw/kn/utt_0693.wav,ta,7e066171,Other,dilli aaya hu se naam aaya dilli naam,4.19,34.87,crowdsourced,0,LOW_QUALITY_FLAG
+utt_0694,s3://india-speaks/raw/pa/utt_0694.wav,en,71e4358a,Other,mera mera namaste mera aapka dilli,4.97,34.1,call-center,0,LOW_QUALITY_FLAG
+utt_0695,s3://india-speaks/raw/mr/utt_0695.wav,mr,3ffc0374,Other,mera mera aaya hu,2.77,47.07,call-center,0,LOW_QUALITY_FLAG
+utt_0701,s3://india-speaks/raw/pa/utt_0701.wav,pa,6baeb224,Other,,0.51,21.55,studio,0,LOW_QUALITY_FLAG
+utt_0703,s3://india-speaks/raw/ml/utt_0703.wav,ur,a9b3561e,M,swagat naam hai naam kaise namaste namaste,3.33,36.36,studio,0,LOW_QUALITY_FLAG
+utt_0704,s3://india-speaks/raw/hi/utt_0704.wav,en,197ca8bd,Other,kaise kaise dilli naam hai hai ho kaise se namaste,3.47,32.57,crowdsourced,0,LOW_QUALITY_FLAG
+utt_0707,s3://india-speaks/raw/hi/utt_0707.wav,pa,1ea7da35,M,dilli hu kaise ho,1.06,37.62,crowdsourced,0,LOW_QUALITY_FLAG
+utt_0710,s3://india-speaks/raw/hi/utt_0710.wav,ur,3deccefc,M,,3.53,43.67,crowdsourced,0,LOW_QUALITY_FLAG
+utt_0711,s3://india-speaks/raw/en/utt_0711.wav,en,4249fd10,Other,hu hu aapka kaise ho hai,2.97,26.74,crowdsourced,0,LOW_QUALITY_FLAG
+utt_0713,s3://india-speaks/raw/te/utt_0713.wav,kn,3c857442,F,kaise aapka aaya,1.39,38.99,call-center,0,LOW_QUALITY_FLAG
+utt_0718,s3://india-speaks/raw/gu/utt_0718.wav,kn,53724a38,M,se hai aaya se kaise namaste hai,1.78,24.77,studio,0,LOW_QUALITY_FLAG
+utt_0719,s3://india-speaks/raw/ta/utt_0719.wav,ml,1d7b4723,Other,swagat namaste namaste se aaya swagat hu,2.43,43.25,studio,0,LOW_QUALITY_FLAG
+utt_0726,s3://india-speaks/raw/mr/utt_0726.wav,ta,27b78af5,F,namaste naam namaste hai swagat ho kaise,4.78,33.64,crowdsourced,0,LOW_QUALITY_FLAG
+utt_0727,s3://india-speaks/raw/bn/utt_0727.wav,ur,9e367178,F,,3.22,42.12,crowdsourced,0,LOW_QUALITY_FLAG
+utt_0736,s3://india-speaks/raw/pa/utt_0736.wav,te,06800242,F,naam se swagat se aapka se swagat dilli,2.19,34.29,crowdsourced,0,LOW_QUALITY_FLAG
+utt_0739,s3://india-speaks/raw/hi/utt_0739.wav,gu,4722f4af,F,hai hu swagat hai swagat dilli dilli dilli aaya,1.9,33.54,crowdsourced,0,LOW_QUALITY_FLAG
+utt_0740,s3://india-speaks/raw/ml/utt_0740.wav,te,8c588acb,F,mera aaya dilli hai,4.0,26.7,studio,0,LOW_QUALITY_FLAG
+utt_0746,s3://india-speaks/raw/hi/utt_0746.wav,hi,63bee0e9,M,mera naam aapka dilli,2.55,25.18,studio,-1,AUDIO_CORRUPT_SIMULATED
+utt_0750,s3://india-speaks/raw/ur/utt_0750.wav,pa,6d30e885,Other,se mera dilli hai aapka mera swagat ho aaya,0.88,43.96,call-center,0,LOW_QUALITY_FLAG
+utt_0751,s3://india-speaks/raw/mr/utt_0751.wav,hi,03ecf47e,Other,,4.64,38.65,call-center,0,LOW_QUALITY_FLAG
+utt_0757,s3://india-speaks/raw/pa/utt_0757.wav,mr,cb53194c,Other,,1.82,20.04,crowdsourced,0,LOW_QUALITY_FLAG
+utt_0761,s3://india-speaks/raw/gu/utt_0761.wav,ta,a86e45e4,Other,se swagat mera mera aapka ho hai naam se aapka,1.74,59.33,studio,0,LOW_QUALITY_FLAG
+utt_0762,s3://india-speaks/raw/mr/utt_0762.wav,bn,24200c18,F,aaya namaste mera hu naam,2.11,53.62,studio,0,LOW_QUALITY_FLAG
+utt_0763,s3://india-speaks/raw/ta/utt_0763.wav,pa,db7a8d92,Other,se kaise swagat hai namaste ho aaya se namaste,3.2,22.4,call-center,0,LOW_QUALITY_FLAG
+utt_0764,s3://india-speaks/raw/en/utt_0764.wav,en,4e165658,F,ho naam aaya dilli aapka naam se aaya,1.11,52.87,crowdsourced,0,LOW_QUALITY_FLAG
+utt_0766,s3://india-speaks/raw/ta/utt_0766.wav,te,4b07f362,M,dilli se se namaste,1.3,40.53,crowdsourced,0,LOW_QUALITY_FLAG
+utt_0768,s3://india-speaks/raw/pa/utt_0768.wav,mr,71c3b4e7,M,ho aaya hai dilli hu naam hai naam mera aapka,2.98,50.82,studio,0,LOW_QUALITY_FLAG
+utt_0769,s3://india-speaks/raw/bn/utt_0769.wav,ml,262cd051,Other,mera hai namaste hai hu aaya naam swagat,0.7,26.71,call-center,0,LOW_QUALITY_FLAG
+utt_0770,s3://india-speaks/raw/ml/utt_0770.wav,pa,00f9ff9d,M,aaya naam kaise hai se mera ho hai,1.48,40.78,call-center,0,LOW_QUALITY_FLAG
+utt_0771,s3://india-speaks/raw/hi/utt_0771.wav,bn,e9401bb2,M,dilli aaya aapka se hai hai,4.79,38.04,crowdsourced,0,LOW_QUALITY_FLAG
+utt_0772,s3://india-speaks/raw/ml/utt_0772.wav,hi,12c2a4de,Other,swagat mera mera aapka dilli hai hai naam,2.34,36.99,crowdsourced,1,AUDIO_CORRUPT_SIMULATED
+utt_0775,s3://india-speaks/raw/gu/utt_0775.wav,en,30c5d2aa,F,,3.04,30.82,studio,-1,AUDIO_CORRUPT_SIMULATED
+utt_0776,s3://india-speaks/raw/ta/utt_0776.wav,ur,5ac29fc8,Other,hu ho hu naam hai naam swagat,0.69,34.61,call-center,0,LOW_QUALITY_FLAG
+utt_0777,s3://india-speaks/raw/ta/utt_0777.wav,bn,9332f4fd,F,hai mera aapka ho kaise aapka aapka dilli hu,4.53,36.23,crowdsourced,-1,AUDIO_CORRUPT_SIMULATED
+utt_0778,s3://india-speaks/raw/ur/utt_0778.wav,kn,913f5657,M,,1.15,30.29,studio,0,LOW_QUALITY_FLAG
+utt_0781,s3://india-speaks/raw/kn/utt_0781.wav,bn,1a1a149f,M,swagat hai naam hai naam se,3.36,20.18,studio,0,LOW_QUALITY_FLAG
+utt_0783,s3://india-speaks/raw/ta/utt_0783.wav,en,4516a76b,F,se aapka hai ho hai naam aaya,0.7,28.82,crowdsourced,0,LOW_QUALITY_FLAG
+utt_0786,s3://india-speaks/raw/kn/utt_0786.wav,ur,42865e68,F,namaste dilli swagat hai ho aaya kaise namaste mera,1.02,23.13,call-center,0,LOW_QUALITY_FLAG
+utt_0787,s3://india-speaks/raw/ur/utt_0787.wav,gu,7e410435,F,naam kaise dilli naam dilli kaise se swagat kaise ho,2.33,47.02,crowdsourced,0,LOW_QUALITY_FLAG
+utt_0790,s3://india-speaks/raw/ur/utt_0790.wav,kn,a7680da9,M,aaya aapka hai swagat kaise hu mera swagat aaya hai,1.73,49.41,studio,0,LOW_QUALITY_FLAG
+utt_0797,s3://india-speaks/raw/bn/utt_0797.wav,mr,da31f87f,F,dilli aapka hu hai namaste aaya dilli mera,2.73,32.77,studio,0,LOW_QUALITY_FLAG
+utt_0798,s3://india-speaks/raw/kn/utt_0798.wav,en,9da32bfa,M,,4.36,35.99,studio,-1,EMPTY_AFTER_NORMALIZATION
+utt_0800,s3://india-speaks/raw/te/utt_0800.wav,gu,d0b75166,M,aaya se naam hai hai swagat,2.41,45.42,crowdsourced,0,LOW_QUALITY_FLAG
+utt_0801,s3://india-speaks/raw/ta/utt_0801.wav,ta,de9cc7ed,M,swagat naam namaste hu aapka hai,2.0,21.15,crowdsourced,0,LOW_QUALITY_FLAG
+utt_0802,s3://india-speaks/raw/pa/utt_0802.wav,ta,51490d70,F,hai ho naam ho mera hu hu kaise naam dilli,2.3,39.65,crowdsourced,0,LOW_QUALITY_FLAG
+utt_0805,s3://india-speaks/raw/ta/utt_0805.wav,hi,329e4188,Other,ho naam dilli aapka se,3.78,40.05,call-center,0,LOW_QUALITY_FLAG
+utt_0811,s3://india-speaks/raw/kn/utt_0811.wav,pa,c0123e4e,Other,namaste ho se ho hai hai namaste mera,2.93,23.15,studio,0,LOW_QUALITY_FLAG
+utt_0824,s3://india-speaks/raw/en/utt_0824.wav,kn,525d8a7a,Other,aapka ho aaya,0.98,21.21,call-center,0,LOW_QUALITY_FLAG
+utt_0825,s3://india-speaks/raw/hi/utt_0825.wav,pa,7c423cb1,F,hu namaste swagat aapka hu,1.7,33.43,studio,0,LOW_QUALITY_FLAG
+utt_0826,s3://india-speaks/raw/bn/utt_0826.wav,mr,3af5c6be,Other,hai aapka swagat kaise aapka hu aapka namaste,2.04,57.1,studio,0,LOW_QUALITY_FLAG
+utt_0828,s3://india-speaks/raw/kn/utt_0828.wav,ta,14e353f1,F,aaya se mera hai hai,1.1,43.26,studio,0,LOW_QUALITY_FLAG
+utt_0829,s3://india-speaks/raw/mr/utt_0829.wav,hi,26e83f0c,M,se hai namaste naam,2.28,45.37,crowdsourced,0,LOW_QUALITY_FLAG
+utt_0830,s3://india-speaks/raw/te/utt_0830.wav,mr,e12d2bc9,M,mera swagat hai ho,2.71,51.78,crowdsourced,0,LOW_QUALITY_FLAG
+utt_0835,s3://india-speaks/raw/hi/utt_0835.wav,hi,37c0fdd0,M,aaya hai kaise ho kaise namaste,2.19,40.43,crowdsourced,0,LOW_QUALITY_FLAG
+utt_0839,s3://india-speaks/raw/bn/utt_0839.wav,ta,1ce8f05f,Other,dilli se kaise namaste mera se mera swagat,4.67,44.57,studio,0,LOW_QUALITY_FLAG
+utt_0841,s3://india-speaks/raw/gu/utt_0841.wav,ur,4190f77c,Other,hu naam hai hu ho hai namaste naam hu namaste,4.19,43.2,studio,0,LOW_QUALITY_FLAG
+utt_0846,s3://india-speaks/raw/kn/utt_0846.wav,gu,2d7b3242,Other,mera aaya hu namaste aaya dilli dilli,4.93,27.47,crowdsourced,0,LOW_QUALITY_FLAG
+utt_0847,s3://india-speaks/raw/pa/utt_0847.wav,kn,44d575ea,Other,mera naam mera,3.67,32.75,crowdsourced,0,LOW_QUALITY_FLAG
+utt_0849,s3://india-speaks/raw/mr/utt_0849.wav,en,214dfecd,F,namaste ho kaise hai mera aapka,4.24,44.28,crowdsourced,0,LOW_QUALITY_FLAG
+utt_0850,s3://india-speaks/raw/mr/utt_0850.wav,pa,8acab78b,F,swagat hai hai swagat ho dilli kaise,1.68,57.86,crowdsourced,0,LOW_QUALITY_FLAG
+utt_0851,s3://india-speaks/raw/hi/utt_0851.wav,bn,4f8bb7bc,Other,kaise naam naam namaste hu aaya aaya,4.61,25.3,crowdsourced,0,LOW_QUALITY_FLAG
+utt_0852,s3://india-speaks/raw/gu/utt_0852.wav,mr,89444d3d,F,,2.54,41.69,call-center,0,LOW_QUALITY_FLAG
+utt_0858,s3://india-speaks/raw/bn/utt_0858.wav,mr,676f4ea2,F,swagat swagat hai se dilli namaste hu swagat hai,1.99,27.25,studio,0,LOW_QUALITY_FLAG
+utt_0859,s3://india-speaks/raw/ta/utt_0859.wav,gu,4eeae143,M,naam ho kaise kaise aaya namaste swagat naam namaste hai,1.84,24.11,crowdsourced,0,LOW_QUALITY_FLAG
+utt_0863,s3://india-speaks/raw/en/utt_0863.wav,mr,c8bc1031,F,hu hai aaya hu hu kaise mera dilli ho,1.7,34.67,studio,0,LOW_QUALITY_FLAG
+utt_0865,s3://india-speaks/raw/te/utt_0865.wav,te,aa3342f1,M,dilli aaya hu naam aaya,1.84,30.72,crowdsourced,0,LOW_QUALITY_FLAG
+utt_0866,s3://india-speaks/raw/en/utt_0866.wav,ta,2f4841af,F,hu dilli kaise aapka,4.41,23.32,studio,0,LOW_QUALITY_FLAG
+utt_0867,s3://india-speaks/raw/en/utt_0867.wav,ur,896f7cbf,Other,hai hai se naam,1.72,59.98,studio,0,LOW_QUALITY_FLAG
+utt_0868,s3://india-speaks/raw/te/utt_0868.wav,gu,9e1bdae4,Other,se naam naam hai,0.81,40.21,studio,0,LOW_QUALITY_FLAG
+utt_0872,s3://india-speaks/raw/te/utt_0872.wav,en,3e47f25d,M,hai namaste swagat dilli,3.59,56.09,crowdsourced,0,LOW_QUALITY_FLAG
+utt_0874,s3://india-speaks/raw/ml/utt_0874.wav,kn,6d11be92,M,namaste swagat hai swagat mera kaise,2.98,24.45,studio,0,LOW_QUALITY_FLAG
+utt_0875,s3://india-speaks/raw/en/utt_0875.wav,mr,99da8555,M,aaya hai hai aaya aapka ho hai mera hu,5.0,32.27,studio,0,LOW_QUALITY_FLAG
+utt_0884,s3://india-speaks/raw/bn/utt_0884.wav,ta,3c810936,F,namaste hai mera swagat hu,0.89,36.58,studio,0,LOW_QUALITY_FLAG
+utt_0887,s3://india-speaks/raw/gu/utt_0887.wav,ur,8e08edcf,F,hai hu namaste hu kaise,2.73,33.58,crowdsourced,0,LOW_QUALITY_FLAG
+utt_0890,s3://india-speaks/raw/ur/utt_0890.wav,pa,30fe838c,Other,ho naam hai aapka aaya hai,2.47,57.32,studio,-1,AUDIO_CORRUPT_SIMULATED
+utt_0893,s3://india-speaks/raw/ml/utt_0893.wav,bn,de3aa4c5,Other,aaya aapka hu naam aapka hai naam dilli hu hai,0.63,42.81,studio,0,LOW_QUALITY_FLAG
+utt_0894,s3://india-speaks/raw/ml/utt_0894.wav,kn,b894a243,Other,naam hai dilli namaste se se swagat,4.66,52.82,studio,0,LOW_QUALITY_FLAG
+utt_0895,s3://india-speaks/raw/mr/utt_0895.wav,pa,caa20cfe,Other,aapka mera swagat naam namaste dilli hu dilli,2.75,36.06,crowdsourced,0,LOW_QUALITY_FLAG
+utt_0896,s3://india-speaks/raw/en/utt_0896.wav,en,acdb2588,F,namaste aapka hai namaste hai,0.53,48.92,crowdsourced,0,LOW_QUALITY_FLAG
+utt_0897,s3://india-speaks/raw/ml/utt_0897.wav,bn,91cb3a4e,M,hai namaste swagat se swagat,0.62,38.31,call-center,0,LOW_QUALITY_FLAG
+utt_0898,s3://india-speaks/raw/ml/utt_0898.wav,gu,55fa0c1d,M,hai swagat aapka,4.96,52.85,crowdsourced,0,LOW_QUALITY_FLAG
+utt_0903,s3://india-speaks/raw/bn/utt_0903.wav,ml,cb7abe6c,M,aaya swagat hu mera naam hu ho naam,3.25,41.44,studio,0,LOW_QUALITY_FLAG
+utt_0910,s3://india-speaks/raw/hi/utt_0910.wav,ml,41f50182,M,hai hu kaise namaste namaste,1.82,27.9,crowdsourced,0,LOW_QUALITY_FLAG
+utt_0912,s3://india-speaks/raw/kn/utt_0912.wav,kn,65ebc68f,M,aaya dilli aapka,1.83,20.6,studio,0,LOW_QUALITY_FLAG
+utt_0914,s3://india-speaks/raw/bn/utt_0914.wav,ur,dd5329fe,F,namaste hai hu namaste aapka kaise kaise aapka,4.72,30.57,studio,0,LOW_QUALITY_FLAG
+utt_0915,s3://india-speaks/raw/gu/utt_0915.wav,ml,31c81529,Other,dilli hai aapka se naam naam mera,2.27,49.29,call-center,0,LOW_QUALITY_FLAG
+utt_0916,s3://india-speaks/raw/en/utt_0916.wav,ml,c443c2b8,Other,aapka se hai hai,0.8,42.61,call-center,0,LOW_QUALITY_FLAG
+utt_0919,s3://india-speaks/raw/bn/utt_0919.wav,pa,aecd4edf,F,,2.03,23.07,call-center,0,LOW_QUALITY_FLAG
+utt_0924,s3://india-speaks/raw/en/utt_0924.wav,bn,1862e93a,F,ho aaya naam hai se namaste,2.27,33.45,studio,0,LOW_QUALITY_FLAG
+utt_0929,s3://india-speaks/raw/te/utt_0929.wav,ur,8d1d503d,M,dilli mera hai hai hai hai namaste,2.79,55.76,call-center,0,LOW_QUALITY_FLAG
+utt_0932,s3://india-speaks/raw/pa/utt_0932.wav,pa,5f429aa7,F,kaise dilli dilli aaya namaste,3.11,55.27,crowdsourced,0,LOW_QUALITY_FLAG
+utt_0933,s3://india-speaks/raw/gu/utt_0933.wav,bn,7a5d3df1,Other,dilli kaise naam swagat swagat aaya,3.98,25.66,studio,0,LOW_QUALITY_FLAG
+utt_0939,s3://india-speaks/raw/kn/utt_0939.wav,ur,7c9c7155,Other,mera dilli se naam naam swagat naam hai swagat swagat,1.33,58.4,call-center,0,LOW_QUALITY_FLAG
+utt_0945,s3://india-speaks/raw/hi/utt_0945.wav,mr,bde9a85b,F,kaise se aapka namaste kaise namaste aapka mera se,0.9,38.13,call-center,0,LOW_QUALITY_FLAG
+utt_0946,s3://india-speaks/raw/hi/utt_0946.wav,en,59037522,Other,swagat ho mera se naam dilli ho,4.44,59.35,call-center,0,LOW_QUALITY_FLAG
+utt_0947,s3://india-speaks/raw/ur/utt_0947.wav,en,8939d7a6,M,hu naam mera namaste ho,1.98,34.84,call-center,0,LOW_QUALITY_FLAG
+utt_0950,s3://india-speaks/raw/pa/utt_0950.wav,te,0e44ef16,F,hu dilli mera aapka dilli ho aaya hu hu,3.25,23.98,studio,0,LOW_QUALITY_FLAG
+utt_0951,s3://india-speaks/raw/pa/utt_0951.wav,ta,4133c29c,Other,mera swagat ho,1.83,57.06,crowdsourced,0,LOW_QUALITY_FLAG
+utt_0952,s3://india-speaks/raw/bn/utt_0952.wav,ur,339264e7,Other,se dilli ho hai,2.54,48.5,call-center,0,LOW_QUALITY_FLAG
+utt_0961,s3://india-speaks/raw/ta/utt_0961.wav,ml,6765f90e,M,aapka mera aapka se naam hai naam aapka naam hai,4.14,58.38,call-center,0,LOW_QUALITY_FLAG
+utt_0967,s3://india-speaks/raw/bn/utt_0967.wav,en,581d9a66,Other,,4.14,50.32,crowdsourced,1,EMPTY_AFTER_NORMALIZATION
+utt_0973,s3://india-speaks/raw/mr/utt_0973.wav,ml,f9d0b6f3,M,,4.3,25.14,call-center,0,LOW_QUALITY_FLAG
+utt_0974,s3://india-speaks/raw/en/utt_0974.wav,kn,905a61c2,Other,naam aaya ho hu aapka hu ho swagat aapka,2.25,27.96,studio,0,LOW_QUALITY_FLAG
+utt_0976,s3://india-speaks/raw/bn/utt_0976.wav,ur,eed69cb5,F,aaya kaise ho se,4.27,58.45,call-center,0,LOW_QUALITY_FLAG
+utt_0981,s3://india-speaks/raw/bn/utt_0981.wav,ta,c16ab3db,M,swagat ho aapka aapka hu kaise,3.41,54.94,studio,0,LOW_QUALITY_FLAG
+utt_0983,s3://india-speaks/raw/ur/utt_0983.wav,hi,7dd319f5,M,hai aapka swagat kaise swagat,1.83,36.19,call-center,1,AUDIO_CORRUPT_SIMULATED
+utt_0986,s3://india-speaks/raw/kn/utt_0986.wav,hi,004de4eb,F,,0.82,58.12,crowdsourced,0,LOW_QUALITY_FLAG
+utt_0988,s3://india-speaks/raw/en/utt_0988.wav,pa,b38a1445,Other,hai swagat swagat namaste swagat aapka mera se mera swagat,0.84,43.83,call-center,0,LOW_QUALITY_FLAG
+utt_0998,s3://india-speaks/raw/mr/utt_0998.wav,kn,bf8c6db6,F,se aaya hu aapka aaya aaya se,2.03,39.84,crowdsourced,0,LOW_QUALITY_FLAG
+utt_1000,s3://india-speaks/raw/ur/utt_1000.wav,ml,ea89b06f,M,hai naam se naam naam,3.96,24.05,studio,0,LOW_QUALITY_FLAG
+utt_1002,s3://india-speaks/raw/gu/utt_1002.wav,ml,b322f85f,M,dilli ho kaise,1.43,47.5,call-center,0,LOW_QUALITY_FLAG
+utt_1005,s3://india-speaks/raw/ur/utt_1005.wav,en,56df68a2,F,mera dilli se mera hai namaste,0.65,50.32,crowdsourced,0,LOW_QUALITY_FLAG
+utt_1007,s3://india-speaks/raw/kn/utt_1007.wav,mr,846580ba,Other,hai naam namaste aapka hai naam se kaise,4.29,46.72,call-center,0,LOW_QUALITY_FLAG
+utt_1012,s3://india-speaks/raw/kn/utt_1012.wav,kn,2d7d0300,F,aaya swagat mera se kaise swagat,4.66,58.18,call-center,0,LOW_QUALITY_FLAG
+utt_1014,s3://india-speaks/raw/te/utt_1014.wav,ta,3e92a8db,F,hu hu naam namaste kaise mera hai,0.71,32.78,studio,0,LOW_QUALITY_FLAG
+utt_1015,s3://india-speaks/raw/en/utt_1015.wav,gu,99bcd7d7,Other,namaste hai hai aaya aaya se,2.15,46.05,studio,0,LOW_QUALITY_FLAG
+utt_1019,s3://india-speaks/raw/ta/utt_1019.wav,hi,c418e923,Other,ho kaise namaste hai hu aapka aaya se hai,0.64,51.24,studio,0,LOW_QUALITY_FLAG
+utt_1024,s3://india-speaks/raw/mr/utt_1024.wav,mr,d1f0804e,F,mera hu aaya hai hai dilli ho kaise,4.14,59.24,call-center,0,LOW_QUALITY_FLAG
+utt_1025,s3://india-speaks/raw/kn/utt_1025.wav,en,d66a445e,F,swagat aapka hu aaya hu se ho,4.09,54.12,crowdsourced,0,LOW_QUALITY_FLAG
+utt_1027,s3://india-speaks/raw/mr/utt_1027.wav,ta,49071b21,F,namaste hai hai se hu aapka,2.72,40.04,crowdsourced,0,LOW_QUALITY_FLAG
+utt_1028,s3://india-speaks/raw/pa/utt_1028.wav,bn,e332f315,F,namaste namaste kaise namaste swagat hai naam swagat,1.22,53.23,studio,0,LOW_QUALITY_FLAG
+utt_1037,s3://india-speaks/raw/te/utt_1037.wav,mr,035fbdde,F,mera hai hu naam hai aapka swagat naam namaste aapka,3.41,22.63,studio,0,LOW_QUALITY_FLAG
+utt_1038,s3://india-speaks/raw/gu/utt_1038.wav,pa,946c249a,Other,kaise hai hai aapka namaste aaya dilli hu hai swagat,1.03,56.47,crowdsourced,0,LOW_QUALITY_FLAG
+utt_1041,s3://india-speaks/raw/bn/utt_1041.wav,mr,fe660d1d,M,dilli aaya hu dilli se hai,4.77,55.83,studio,0,LOW_QUALITY_FLAG
+utt_1043,s3://india-speaks/raw/pa/utt_1043.wav,kn,356af971,F,kaise hu hai aapka dilli mera,1.39,49.88,studio,0,LOW_QUALITY_FLAG
+utt_1044,s3://india-speaks/raw/en/utt_1044.wav,te,4220120e,F,swagat se hai hu naam hai hai se se naam,1.11,51.46,crowdsourced,0,LOW_QUALITY_FLAG
+utt_1045,s3://india-speaks/raw/hi/utt_1045.wav,ta,a33da0cc,Other,aaya naam aaya naam namaste,2.29,36.23,crowdsourced,0,LOW_QUALITY_FLAG
+utt_1046,s3://india-speaks/raw/ur/utt_1046.wav,ml,cc94f875,M,namaste namaste hai aaya mera mera mera aapka mera aaya,0.89,24.74,crowdsourced,0,LOW_QUALITY_FLAG
+utt_1049,s3://india-speaks/raw/ur/utt_1049.wav,ur,ef684cf0,Other,naam hu aaya mera mera naam kaise swagat dilli dilli,4.36,49.64,crowdsourced,0,LOW_QUALITY_FLAG
+utt_1052,s3://india-speaks/raw/pa/utt_1052.wav,pa,c13e2119,Other,se swagat swagat dilli aaya aaya namaste aapka,1.87,53.75,crowdsourced,0,LOW_QUALITY_FLAG
+utt_1053,s3://india-speaks/raw/gu/utt_1053.wav,gu,11b45278,Other,hai aapka swagat hai aaya mera namaste se,0.6,21.47,studio,0,LOW_QUALITY_FLAG
+utt_1054,s3://india-speaks/raw/pa/utt_1054.wav,ml,2dc79460,Other,hu aapka hai mera naam aapka ho hai dilli,0.93,22.53,crowdsourced,0,LOW_QUALITY_FLAG
+utt_1063,s3://india-speaks/raw/gu/utt_1063.wav,bn,5ac0b437,M,dilli kaise hu dilli se namaste,1.21,35.72,crowdsourced,0,LOW_QUALITY_FLAG
+utt_1066,s3://india-speaks/raw/pa/utt_1066.wav,bn,2ee23028,F,hai ho kaise kaise kaise,4.14,59.84,call-center,0,LOW_QUALITY_FLAG
+utt_1067,s3://india-speaks/raw/pa/utt_1067.wav,ta,d024b7d8,M,swagat namaste hu aaya se,1.77,39.52,studio,0,LOW_QUALITY_FLAG
+utt_1070,s3://india-speaks/raw/kn/utt_1070.wav,mr,fb60ec0f,F,hai swagat hai ho dilli aapka ho naam ho aapka,4.64,26.38,studio,0,LOW_QUALITY_FLAG
+utt_1071,s3://india-speaks/raw/pa/utt_1071.wav,pa,b441343f,Other,kaise hai aaya se,3.85,34.69,studio,0,LOW_QUALITY_FLAG
+utt_1078,s3://india-speaks/raw/pa/utt_1078.wav,en,afe08237,Other,,1.21,52.61,crowdsourced,0,LOW_QUALITY_FLAG
+utt_1082,s3://india-speaks/raw/ta/utt_1082.wav,en,b5bc77f8,F,naam swagat se hu aaya se,2.35,36.26,crowdsourced,0,LOW_QUALITY_FLAG
+utt_1084,s3://india-speaks/raw/ur/utt_1084.wav,pa,7d53bf01,Other,aapka hu hai namaste namaste aapka ho mera mera,2.89,54.47,call-center,0,LOW_QUALITY_FLAG
+utt_1097,s3://india-speaks/raw/hi/utt_1097.wav,kn,5eac3a5e,M,,1.75,53.1,studio,0,LOW_QUALITY_FLAG
+utt_1101,s3://india-speaks/raw/kn/utt_1101.wav,gu,23905daf,M,se kaise aapka naam aapka,1.06,26.46,studio,0,LOW_QUALITY_FLAG
+utt_1104,s3://india-speaks/raw/mr/utt_1104.wav,ur,2152ab5e,F,hai namaste namaste kaise dilli hai se se ho kaise,3.39,35.52,studio,0,LOW_QUALITY_FLAG
+utt_1111,s3://india-speaks/raw/en/utt_1111.wav,ur,122d9b36,Other,hai ho dilli swagat namaste ho,2.55,29.03,studio,0,LOW_QUALITY_FLAG
+utt_1112,s3://india-speaks/raw/gu/utt_1112.wav,ta,d8b50562,F,mera hu dilli ho naam ho hai namaste hai,1.21,26.95,call-center,0,LOW_QUALITY_FLAG
+utt_1114,s3://india-speaks/raw/ur/utt_1114.wav,hi,6745e96e,M,hu aaya dilli aapka swagat,1.05,33.27,crowdsourced,0,LOW_QUALITY_FLAG
+utt_1117,s3://india-speaks/raw/ta/utt_1117.wav,ur,4caba09a,M,dilli mera hai hai ho hai aaya,3.65,51.01,call-center,0,LOW_QUALITY_FLAG
+utt_1120,s3://india-speaks/raw/ml/utt_1120.wav,mr,20cf92b7,F,aaya mera naam,3.42,53.74,studio,0,LOW_QUALITY_FLAG
+utt_1126,s3://india-speaks/raw/gu/utt_1126.wav,gu,e186fd1c,M,aaya namaste aapka mera ho dilli swagat naam dilli,2.3,52.24,studio,0,LOW_QUALITY_FLAG
+utt_1127,s3://india-speaks/raw/ml/utt_1127.wav,ta,66f4515e,F,swagat kaise ho dilli aapka mera hai kaise namaste,4.31,31.04,call-center,0,LOW_QUALITY_FLAG
+utt_1134,s3://india-speaks/raw/mr/utt_1134.wav,ur,f0a52e06,Other,hu se ho aaya dilli,3.6,41.29,crowdsourced,0,LOW_QUALITY_FLAG
+utt_1141,s3://india-speaks/raw/te/utt_1141.wav,ta,cfe9ad0d,F,kaise aapka naam dilli mera,4.39,52.52,crowdsourced,-1,AUDIO_CORRUPT_SIMULATED
+utt_1142,s3://india-speaks/raw/bn/utt_1142.wav,gu,3898479f,Other,se hu hai namaste hu hai hai hai,3.77,37.54,studio,0,LOW_QUALITY_FLAG
+utt_1143,s3://india-speaks/raw/pa/utt_1143.wav,te,7f595ce9,Other,aaya se namaste aapka swagat,2.21,35.29,studio,0,LOW_QUALITY_FLAG
+utt_1148,s3://india-speaks/raw/ta/utt_1148.wav,kn,c5e73d52,Other,kaise naam se hai aaya kaise,1.79,30.01,crowdsourced,0,LOW_QUALITY_FLAG
+utt_1158,s3://india-speaks/raw/mr/utt_1158.wav,mr,22cc79b8,Other,hu mera mera namaste naam hu,3.87,39.72,studio,0,LOW_QUALITY_FLAG
+utt_1159,s3://india-speaks/raw/en/utt_1159.wav,en,229af396,M,namaste aapka swagat swagat,4.06,48.73,call-center,0,LOW_QUALITY_FLAG
+utt_1161,s3://india-speaks/raw/mr/utt_1161.wav,te,e3f67616,M,ho kaise namaste namaste se naam aaya aaya hai,2.74,20.65,call-center,0,LOW_QUALITY_FLAG
+utt_1163,s3://india-speaks/raw/ur/utt_1163.wav,kn,9e33108a,Other,namaste dilli aaya hai kaise hai hu,3.76,49.27,call-center,0,LOW_QUALITY_FLAG
+utt_1166,s3://india-speaks/raw/ml/utt_1166.wav,gu,08efeb04,M,namaste dilli hu,4.95,56.38,crowdsourced,0,LOW_QUALITY_FLAG
+utt_1169,s3://india-speaks/raw/hi/utt_1169.wav,ta,f24a8bba,Other,namaste aaya ho kaise,3.02,28.25,studio,0,LOW_QUALITY_FLAG
+utt_1173,s3://india-speaks/raw/ta/utt_1173.wav,gu,d76e80c4,F,ho naam hai aapka mera naam,4.29,20.54,crowdsourced,0,LOW_QUALITY_FLAG
+utt_1175,s3://india-speaks/raw/en/utt_1175.wav,pa,80584504,F,mera hu hai mera,4.66,56.0,studio,0,LOW_QUALITY_FLAG
+utt_1176,s3://india-speaks/raw/pa/utt_1176.wav,te,2bf89432,F,namaste se ho kaise se naam aaya namaste,2.79,46.31,call-center,0,LOW_QUALITY_FLAG
+utt_1180,s3://india-speaks/raw/hi/utt_1180.wav,mr,43632c59,M,hai aapka hai naam,1.74,57.36,call-center,0,LOW_QUALITY_FLAG
+utt_1189,s3://india-speaks/raw/hi/utt_1189.wav,en,696607a8,M,aapka hu namaste hu naam hu,2.5,30.38,call-center,0,LOW_QUALITY_FLAG
+utt_1191,s3://india-speaks/raw/gu/utt_1191.wav,pa,40dbec42,F,aapka naam hu,1.5,35.49,crowdsourced,0,LOW_QUALITY_FLAG
+utt_1193,s3://india-speaks/raw/te/utt_1193.wav,hi,eadc3e38,F,se aapka namaste,3.74,49.01,call-center,0,LOW_QUALITY_FLAG
+utt_1197,s3://india-speaks/raw/mr/utt_1197.wav,kn,22c7f3fb,M,hu swagat kaise mera swagat,1.39,21.85,call-center,1,AUDIO_CORRUPT_SIMULATED
+utt_1198,s3://india-speaks/raw/ta/utt_1198.wav,ml,ad1795ac,Other,namaste kaise aapka se,4.41,55.9,call-center,0,LOW_QUALITY_FLAG
+utt_1200,s3://india-speaks/raw/ml/utt_1200.wav,en,7ac7adbf,F,kaise aaya ho namaste aaya hu,1.45,39.29,call-center,0,LOW_QUALITY_FLAG
+utt_1201,s3://india-speaks/raw/ur/utt_1201.wav,gu,92249b3c,F,ho naam swagat dilli hai hai naam swagat hai,1.38,37.34,crowdsourced,0,LOW_QUALITY_FLAG
+utt_1202,s3://india-speaks/raw/ta/utt_1202.wav,kn,252774b2,F,kaise hu aaya hu hai aaya,1.17,43.0,studio,0,LOW_QUALITY_FLAG
+utt_1203,s3://india-speaks/raw/ur/utt_1203.wav,gu,3f7acd0e,Other,kaise ho ho hai namaste kaise hai kaise,3.13,22.22,crowdsourced,0,LOW_QUALITY_FLAG
+utt_1204,s3://india-speaks/raw/ta/utt_1204.wav,gu,8b0b7252,Other,swagat naam dilli namaste namaste hu aaya kaise namaste,2.18,28.03,call-center,0,LOW_QUALITY_FLAG
+utt_1205,s3://india-speaks/raw/ur/utt_1205.wav,bn,8ad27807,Other,dilli hai naam aaya aapka aapka aapka,2.0,20.79,studio,0,LOW_QUALITY_FLAG
+utt_1206,s3://india-speaks/raw/en/utt_1206.wav,gu,42ac53f4,Other,aapka hu namaste kaise hai hu hai namaste dilli,1.94,47.65,call-center,0,LOW_QUALITY_FLAG
+utt_1209,s3://india-speaks/raw/ta/utt_1209.wav,ml,95c99ec1,M,aaya namaste swagat ho se aaya aapka aapka,2.61,45.8,call-center,0,LOW_QUALITY_FLAG
+utt_1214,s3://india-speaks/raw/ur/utt_1214.wav,ur,7560070b,Other,aaya ho mera,2.6,21.85,studio,0,LOW_QUALITY_FLAG
+utt_1215,s3://india-speaks/raw/bn/utt_1215.wav,te,81676d6b,Other,namaste naam hai aaya hu hu kaise,3.75,28.52,crowdsourced,1,AUDIO_CORRUPT_SIMULATED
+utt_1221,s3://india-speaks/raw/hi/utt_1221.wav,pa,33936167,M,hai dilli hu aaya namaste ho ho,1.08,25.58,crowdsourced,0,LOW_QUALITY_FLAG
+utt_1222,s3://india-speaks/raw/te/utt_1222.wav,hi,481d52ce,Other,kaise namaste swagat kaise namaste,3.03,33.17,call-center,0,LOW_QUALITY_FLAG
+utt_1223,s3://india-speaks/raw/pa/utt_1223.wav,en,be7221b5,M,kaise aapka ho hai ho hai naam hai hai,3.3,57.0,crowdsourced,0,LOW_QUALITY_FLAG
+utt_1225,s3://india-speaks/raw/en/utt_1225.wav,bn,3f79e145,Other,hai aaya se,2.19,53.3,studio,0,LOW_QUALITY_FLAG
+utt_1229,s3://india-speaks/raw/bn/utt_1229.wav,pa,6cad9c4e,F,aapka naam naam ho swagat,3.73,46.4,crowdsourced,0,LOW_QUALITY_FLAG
+utt_1230,s3://india-speaks/raw/ta/utt_1230.wav,bn,1683b78e,Other,,4.81,29.38,crowdsourced,0,LOW_QUALITY_FLAG
+utt_1232,s3://india-speaks/raw/ur/utt_1232.wav,mr,1394c5d8,F,aapka mera mera namaste naam,4.35,51.56,studio,0,LOW_QUALITY_FLAG
+utt_1233,s3://india-speaks/raw/ur/utt_1233.wav,kn,485803d6,M,,4.93,56.02,studio,0,LOW_QUALITY_FLAG
+utt_1238,s3://india-speaks/raw/bn/utt_1238.wav,hi,f95741f1,F,aapka aapka ho mera kaise naam dilli aaya naam,3.96,52.78,crowdsourced,0,LOW_QUALITY_FLAG
+utt_1242,s3://india-speaks/raw/ur/utt_1242.wav,hi,7773c544,M,namaste naam naam,2.2,54.5,crowdsourced,0,LOW_QUALITY_FLAG
+utt_1244,s3://india-speaks/raw/hi/utt_1244.wav,en,acb86e7d,Other,hu aaya dilli namaste hu,3.47,37.27,crowdsourced,0,LOW_QUALITY_FLAG
+utt_1245,s3://india-speaks/raw/en/utt_1245.wav,te,2efd30a6,M,dilli hai dilli dilli aapka hai,3.34,53.73,call-center,0,LOW_QUALITY_FLAG
+utt_1246,s3://india-speaks/raw/en/utt_1246.wav,ur,fb6b7408,F,hu dilli swagat aapka dilli mera aaya,4.52,59.71,studio,0,LOW_QUALITY_FLAG
+utt_1253,s3://india-speaks/raw/ml/utt_1253.wav,ml,e66f280c,Other,aapka se hai se dilli se,3.49,58.56,studio,0,LOW_QUALITY_FLAG
+utt_1256,s3://india-speaks/raw/ml/utt_1256.wav,ur,6a30d490,Other,kaise namaste naam se se hai namaste hu ho,0.99,41.18,call-center,0,LOW_QUALITY_FLAG
+utt_1267,s3://india-speaks/raw/gu/utt_1267.wav,gu,49c80662,Other,dilli hu aaya kaise swagat hu ho,4.97,59.15,studio,0,LOW_QUALITY_FLAG
+utt_1269,s3://india-speaks/raw/pa/utt_1269.wav,en,8b8e91f0,F,swagat hai namaste dilli,3.66,40.21,call-center,0,LOW_QUALITY_FLAG
+utt_1270,s3://india-speaks/raw/ml/utt_1270.wav,kn,36630854,M,,2.66,58.51,call-center,0,LOW_QUALITY_FLAG
+utt_1272,s3://india-speaks/raw/te/utt_1272.wav,ta,e020c0a8,M,se swagat aaya hai ho hu aapka,3.84,29.71,studio,0,LOW_QUALITY_FLAG
+utt_1274,s3://india-speaks/raw/hi/utt_1274.wav,gu,683e877e,Other,hai naam hai aaya hu se hai,1.95,41.36,call-center,0,LOW_QUALITY_FLAG
+utt_1283,s3://india-speaks/raw/kn/utt_1283.wav,mr,4746ec94,Other,se se hu namaste hu kaise hai hai,1.18,57.35,crowdsourced,0,LOW_QUALITY_FLAG
+utt_1287,s3://india-speaks/raw/ta/utt_1287.wav,ur,36e9a4f1,F,namaste hai hu hai aapka aaya dilli mera hai,1.91,42.43,studio,0,LOW_QUALITY_FLAG
+utt_1290,s3://india-speaks/raw/ur/utt_1290.wav,en,ee69d660,M,se aaya hai aaya aapka aapka dilli se,0.76,51.32,studio,0,LOW_QUALITY_FLAG
+utt_1297,s3://india-speaks/raw/ur/utt_1297.wav,ur,72c88317,Other,hu hu aapka swagat dilli namaste,1.73,20.59,crowdsourced,0,LOW_QUALITY_FLAG
+utt_1298,s3://india-speaks/raw/gu/utt_1298.wav,en,c99bad5b,M,hai swagat naam hai dilli swagat se,1.54,48.47,studio,0,LOW_QUALITY_FLAG
+utt_1303,s3://india-speaks/raw/pa/utt_1303.wav,hi,0274b80c,F,namaste hai swagat ho ho,3.39,49.61,crowdsourced,0,LOW_QUALITY_FLAG
+utt_1304,s3://india-speaks/raw/pa/utt_1304.wav,bn,f5e43ada,F,hai swagat se mera kaise namaste dilli,0.98,28.61,call-center,0,LOW_QUALITY_FLAG
+utt_1308,s3://india-speaks/raw/pa/utt_1308.wav,mr,72f6d487,M,kaise swagat mera namaste aapka hai ho swagat namaste hai,2.63,43.13,call-center,0,LOW_QUALITY_FLAG
+utt_1310,s3://india-speaks/raw/mr/utt_1310.wav,mr,fc2875b0,M,dilli ho hu ho mera hai,3.53,26.14,studio,0,LOW_QUALITY_FLAG
+utt_1311,s3://india-speaks/raw/gu/utt_1311.wav,ta,e6001c05,F,swagat swagat mera mera aapka naam se aapka hai hai,4.44,47.33,call-center,0,LOW_QUALITY_FLAG
+utt_1312,s3://india-speaks/raw/gu/utt_1312.wav,en,2eae1a36,F,,1.31,30.5,call-center,1,EMPTY_AFTER_NORMALIZATION
+utt_1316,s3://india-speaks/raw/ta/utt_1316.wav,en,c088b758,Other,naam ho aaya mera dilli namaste ho,3.79,32.7,studio,0,LOW_QUALITY_FLAG
+utt_1319,s3://india-speaks/raw/te/utt_1319.wav,ta,0f17bff5,Other,kaise swagat swagat naam ho hai ho swagat,1.79,21.1,crowdsourced,0,LOW_QUALITY_FLAG
+utt_1320,s3://india-speaks/raw/mr/utt_1320.wav,kn,414b323f,Other,aapka hai hai aapka,1.27,21.85,studio,0,LOW_QUALITY_FLAG
+utt_1325,s3://india-speaks/raw/ml/utt_1325.wav,mr,58bee822,M,naam ho hu naam dilli hai dilli,0.95,56.82,crowdsourced,0,LOW_QUALITY_FLAG
+utt_1331,s3://india-speaks/raw/ta/utt_1331.wav,te,89170d19,Other,namaste namaste hai naam aaya,2.58,34.07,call-center,0,LOW_QUALITY_FLAG
+utt_1332,s3://india-speaks/raw/ml/utt_1332.wav,hi,88e51b5a,M,aapka naam naam se,3.14,28.27,call-center,0,LOW_QUALITY_FLAG
+utt_1335,s3://india-speaks/raw/bn/utt_1335.wav,bn,b2fb1cd0,Other,hai kaise hai hai,3.38,27.08,crowdsourced,0,LOW_QUALITY_FLAG
+utt_1338,s3://india-speaks/raw/ur/utt_1338.wav,kn,211471d5,Other,namaste hai ho naam,2.7,56.3,call-center,0,LOW_QUALITY_FLAG
+utt_1342,s3://india-speaks/raw/gu/utt_1342.wav,ml,94c5cf72,M,hu swagat se naam hai ho swagat dilli,1.96,35.43,call-center,0,LOW_QUALITY_FLAG
+utt_1343,s3://india-speaks/raw/te/utt_1343.wav,hi,fc4244bc,Other,swagat aapka hu hai hai,0.7,45.76,studio,0,LOW_QUALITY_FLAG
+utt_1344,s3://india-speaks/raw/kn/utt_1344.wav,en,2c2c9ec5,F,kaise naam aapka swagat namaste,3.93,41.61,call-center,0,LOW_QUALITY_FLAG
+utt_1345,s3://india-speaks/raw/bn/utt_1345.wav,en,40ed7279,Other,,2.56,43.47,crowdsourced,-1,EMPTY_AFTER_NORMALIZATION
+utt_1350,s3://india-speaks/raw/ur/utt_1350.wav,bn,9865291b,M,aaya namaste se,3.24,53.85,crowdsourced,0,LOW_QUALITY_FLAG
+utt_1367,s3://india-speaks/raw/ur/utt_1367.wav,bn,a7957adc,M,kaise aapka se aapka hai naam hu aapka hai,2.12,56.88,call-center,0,LOW_QUALITY_FLAG
+utt_1370,s3://india-speaks/raw/te/utt_1370.wav,te,d56c133b,Other,,1.03,55.19,crowdsourced,0,LOW_QUALITY_FLAG
+utt_1373,s3://india-speaks/raw/en/utt_1373.wav,te,e2dc6ea3,Other,kaise hai hai aaya,4.15,28.42,call-center,0,LOW_QUALITY_FLAG
+utt_1374,s3://india-speaks/raw/hi/utt_1374.wav,hi,aa79b8cc,Other,aaya naam mera hu hai,1.67,27.69,studio,0,LOW_QUALITY_FLAG
+utt_1377,s3://india-speaks/raw/en/utt_1377.wav,mr,8bed3e56,Other,se hai namaste ho naam,1.55,58.76,studio,0,LOW_QUALITY_FLAG
+utt_1379,s3://india-speaks/raw/ta/utt_1379.wav,bn,d6a516d6,M,naam dilli swagat hai,4.76,27.48,studio,0,LOW_QUALITY_FLAG
+utt_1380,s3://india-speaks/raw/bn/utt_1380.wav,pa,c2b2b910,M,dilli ho aapka namaste swagat,3.08,44.75,studio,0,LOW_QUALITY_FLAG
+utt_1381,s3://india-speaks/raw/gu/utt_1381.wav,en,269462d3,F,namaste swagat hai swagat,1.48,42.8,studio,0,LOW_QUALITY_FLAG
+utt_1383,s3://india-speaks/raw/kn/utt_1383.wav,mr,6d44d16b,F,aapka dilli naam naam naam naam mera hai mera swagat,1.78,53.13,crowdsourced,0,LOW_QUALITY_FLAG
+utt_1387,s3://india-speaks/raw/ur/utt_1387.wav,hi,6e3c2843,F,swagat aapka kaise namaste se hai aaya aaya naam,1.58,38.48,crowdsourced,0,LOW_QUALITY_FLAG
+utt_1388,s3://india-speaks/raw/te/utt_1388.wav,kn,048564df,M,,1.69,56.0,studio,0,LOW_QUALITY_FLAG
+utt_1389,s3://india-speaks/raw/pa/utt_1389.wav,hi,e784f41a,F,hu se hai hai naam,2.46,32.75,studio,0,LOW_QUALITY_FLAG
+utt_1392,s3://india-speaks/raw/bn/utt_1392.wav,ml,28a00123,Other,swagat mera aaya aapka kaise aapka,0.92,33.85,crowdsourced,0,LOW_QUALITY_FLAG
+utt_1393,s3://india-speaks/raw/pa/utt_1393.wav,bn,643de40d,Other,swagat ho hai naam hu aapka hu swagat hai,0.88,59.1,studio,0,LOW_QUALITY_FLAG
+utt_1395,s3://india-speaks/raw/pa/utt_1395.wav,en,7e56c557,M,ho naam aaya mera kaise,3.43,50.24,studio,0,LOW_QUALITY_FLAG
+utt_1397,s3://india-speaks/raw/kn/utt_1397.wav,pa,e419207d,F,ho hai kaise,1.99,43.14,call-center,0,LOW_QUALITY_FLAG
+utt_1399,s3://india-speaks/raw/gu/utt_1399.wav,en,05410db4,M,hai namaste aapka naam hu aapka aaya,2.92,48.56,crowdsourced,0,LOW_QUALITY_FLAG
+utt_1400,s3://india-speaks/raw/te/utt_1400.wav,pa,d13f1d1c,F,hu ho aaya hai naam hai hai swagat,4.15,33.72,call-center,0,LOW_QUALITY_FLAG
+utt_1404,s3://india-speaks/raw/ml/utt_1404.wav,bn,9b8991ea,Other,,1.51,51.36,studio,0,LOW_QUALITY_FLAG
+utt_1408,s3://india-speaks/raw/ta/utt_1408.wav,en,d961ec2f,M,hu hai naam namaste,4.52,20.13,call-center,0,LOW_QUALITY_FLAG
+utt_1409,s3://india-speaks/raw/ml/utt_1409.wav,hi,7896369d,Other,se swagat hai,4.09,21.4,call-center,0,LOW_QUALITY_FLAG
+utt_1410,s3://india-speaks/raw/pa/utt_1410.wav,mr,4b331d6a,Other,kaise swagat se,4.12,56.67,crowdsourced,0,LOW_QUALITY_FLAG
+utt_1413,s3://india-speaks/raw/bn/utt_1413.wav,te,a260f842,F,se namaste aaya naam,1.59,33.39,crowdsourced,0,LOW_QUALITY_FLAG
+utt_1418,s3://india-speaks/raw/pa/utt_1418.wav,en,b35e9a46,Other,,2.26,26.1,crowdsourced,-1,EMPTY_AFTER_NORMALIZATION
+utt_1420,s3://india-speaks/raw/pa/utt_1420.wav,gu,fb1c85f4,Other,dilli swagat ho naam se hu ho,3.76,58.14,call-center,0,LOW_QUALITY_FLAG
+utt_1421,s3://india-speaks/raw/ur/utt_1421.wav,bn,5a0a402d,Other,aaya aaya hai mera swagat aaya se namaste hai swagat,4.55,33.35,studio,0,LOW_QUALITY_FLAG
+utt_1424,s3://india-speaks/raw/ml/utt_1424.wav,ta,d79acc1d,M,se kaise hai namaste aapka se aapka aaya naam,1.8,40.34,call-center,0,LOW_QUALITY_FLAG
+utt_1425,s3://india-speaks/raw/ur/utt_1425.wav,ur,10640197,F,aapka hu dilli swagat aaya aapka namaste hai hu hai,1.14,47.77,crowdsourced,0,LOW_QUALITY_FLAG
+utt_1431,s3://india-speaks/raw/mr/utt_1431.wav,ur,1f8fbfac,F,hai mera swagat se mera,1.38,25.29,call-center,0,LOW_QUALITY_FLAG
+utt_1433,s3://india-speaks/raw/hi/utt_1433.wav,bn,9232be20,M,hai kaise dilli kaise ho,3.25,27.3,studio,0,LOW_QUALITY_FLAG
+utt_1436,s3://india-speaks/raw/gu/utt_1436.wav,kn,fa55b9af,Other,aapka se ho kaise hai se naam,2.72,21.21,call-center,0,LOW_QUALITY_FLAG
+utt_1437,s3://india-speaks/raw/bn/utt_1437.wav,en,d7762698,Other,aaya naam namaste hai mera namaste swagat,4.1,49.28,call-center,0,LOW_QUALITY_FLAG
+utt_1438,s3://india-speaks/raw/ml/utt_1438.wav,ml,d6f13eaf,F,aapka se hai hai hai aaya hu ho namaste,3.05,36.56,crowdsourced,0,LOW_QUALITY_FLAG
+utt_1445,s3://india-speaks/raw/kn/utt_1445.wav,kn,ed589a6d,M,aaya hai ho hu kaise naam naam,2.67,46.05,crowdsourced,0,LOW_QUALITY_FLAG
+utt_1446,s3://india-speaks/raw/pa/utt_1446.wav,te,3b4aeba8,M,aapka mera naam,1.76,39.88,call-center,0,LOW_QUALITY_FLAG
+utt_1447,s3://india-speaks/raw/pa/utt_1447.wav,hi,3396e3eb,Other,mera hai hu,1.44,26.57,crowdsourced,0,LOW_QUALITY_FLAG
+utt_1448,s3://india-speaks/raw/hi/utt_1448.wav,ur,fdf7be37,F,aapka aapka naam hai hai,4.67,39.7,crowdsourced,0,LOW_QUALITY_FLAG
+utt_1450,s3://india-speaks/raw/te/utt_1450.wav,kn,29c5862e,Other,naam ho naam aaya se aaya kaise dilli kaise mera,1.78,39.65,call-center,0,LOW_QUALITY_FLAG
+utt_1452,s3://india-speaks/raw/bn/utt_1452.wav,bn,45dc7998,Other,se hai naam hai,2.42,39.76,call-center,0,LOW_QUALITY_FLAG
+utt_1453,s3://india-speaks/raw/ml/utt_1453.wav,gu,3dff13be,M,aaya mera hu dilli mera aaya hai kaise aapka hai,1.93,43.72,call-center,0,LOW_QUALITY_FLAG
+utt_1454,s3://india-speaks/raw/en/utt_1454.wav,ta,31e2ba76,Other,mera aaya mera ho mera aapka dilli hai swagat,4.68,33.04,call-center,0,LOW_QUALITY_FLAG
+utt_1456,s3://india-speaks/raw/bn/utt_1456.wav,ta,2cfe4148,F,dilli hai aaya,2.05,53.33,crowdsourced,0,LOW_QUALITY_FLAG
+utt_1458,s3://india-speaks/raw/ta/utt_1458.wav,pa,e7d02744,M,naam swagat se aapka se kaise mera dilli dilli,3.19,37.32,studio,0,LOW_QUALITY_FLAG
+utt_1459,s3://india-speaks/raw/mr/utt_1459.wav,ta,fab49806,Other,dilli hai swagat,3.57,53.62,crowdsourced,0,LOW_QUALITY_FLAG
+utt_1462,s3://india-speaks/raw/te/utt_1462.wav,ur,638896fd,Other,aapka aaya kaise hai ho naam hai,3.9,33.47,studio,0,LOW_QUALITY_FLAG
+utt_1463,s3://india-speaks/raw/ur/utt_1463.wav,hi,74b324fc,F,aaya dilli namaste kaise,2.59,49.75,call-center,0,LOW_QUALITY_FLAG
+utt_1466,s3://india-speaks/raw/en/utt_1466.wav,en,476e8b6d,M,hai naam hu,4.49,53.55,studio,0,LOW_QUALITY_FLAG
+utt_1473,s3://india-speaks/raw/te/utt_1473.wav,hi,01132d8e,Other,hai naam aapka hu namaste aapka,1.98,48.77,crowdsourced,0,LOW_QUALITY_FLAG
+utt_1479,s3://india-speaks/raw/ta/utt_1479.wav,gu,c664d6ea,F,se dilli se se,0.96,38.2,crowdsourced,0,LOW_QUALITY_FLAG
+utt_1484,s3://india-speaks/raw/en/utt_1484.wav,ta,88e7cff0,M,mera hai ho namaste naam ho,2.83,58.38,crowdsourced,0,LOW_QUALITY_FLAG
+utt_1486,s3://india-speaks/raw/ur/utt_1486.wav,gu,a19ac68d,Other,naam dilli kaise mera,3.32,21.19,call-center,0,LOW_QUALITY_FLAG
+utt_1491,s3://india-speaks/raw/kn/utt_1491.wav,ta,2e00c238,Other,aapka hai hu namaste dilli,1.97,25.53,studio,0,LOW_QUALITY_FLAG
+utt_1495,s3://india-speaks/raw/ur/utt_1495.wav,ta,e5dff8a0,M,swagat aapka mera hai namaste hai,3.23,52.52,call-center,0,LOW_QUALITY_FLAG
+utt_1499,s3://india-speaks/raw/pa/utt_1499.wav,en,4cd96bcd,Other,namaste mera aapka,0.79,54.24,studio,0,LOW_QUALITY_FLAG
+utt_1503,s3://india-speaks/raw/ur/utt_1503.wav,hi,fb71babb,Other,dilli se hu aapka swagat se hu,1.53,39.53,crowdsourced,0,LOW_QUALITY_FLAG
+utt_1504,s3://india-speaks/raw/ta/utt_1504.wav,pa,a844212f,M,ho hai ho,3.94,43.45,studio,0,LOW_QUALITY_FLAG
+utt_1505,s3://india-speaks/raw/hi/utt_1505.wav,te,884a5825,F,se dilli hai se aaya,3.53,36.04,crowdsourced,0,LOW_QUALITY_FLAG
+utt_1511,s3://india-speaks/raw/pa/utt_1511.wav,kn,70f5aa7f,Other,aapka naam aapka hu mera,2.6,34.09,crowdsourced,0,LOW_QUALITY_FLAG
+utt_1512,s3://india-speaks/raw/kn/utt_1512.wav,pa,482f4c6a,M,swagat ho aaya hu,2.62,31.88,studio,0,LOW_QUALITY_FLAG
+utt_1520,s3://india-speaks/raw/kn/utt_1520.wav,hi,5ff31581,Other,swagat dilli hai dilli aaya,4.14,23.14,studio,0,LOW_QUALITY_FLAG
+utt_1524,s3://india-speaks/raw/te/utt_1524.wav,en,a692ad2d,F,se aapka mera hu dilli,1.14,46.45,call-center,0,LOW_QUALITY_FLAG
+utt_1526,s3://india-speaks/raw/ur/utt_1526.wav,mr,15e2a284,M,hu ho namaste namaste naam se naam hai swagat ho,4.79,47.8,call-center,1,AUDIO_CORRUPT_SIMULATED
+utt_1528,s3://india-speaks/raw/kn/utt_1528.wav,ta,33fdbb4c,F,dilli kaise aapka naam se aapka namaste hai,2.59,57.99,crowdsourced,0,LOW_QUALITY_FLAG
+utt_1530,s3://india-speaks/raw/ur/utt_1530.wav,hi,5b4c94c5,M,namaste kaise hu naam hai naam dilli aaya ho,1.43,40.56,studio,0,LOW_QUALITY_FLAG
+utt_1533,s3://india-speaks/raw/pa/utt_1533.wav,kn,590a9d10,F,aaya hai mera naam dilli,1.92,47.47,crowdsourced,0,LOW_QUALITY_FLAG
+utt_1535,s3://india-speaks/raw/te/utt_1535.wav,te,f30b5c11,F,aaya mera se kaise hu ho swagat hu,3.57,22.22,crowdsourced,0,LOW_QUALITY_FLAG
+utt_1536,s3://india-speaks/raw/gu/utt_1536.wav,ml,0289cadb,M,namaste hai swagat aapka se hu naam kaise naam hai,2.4,27.01,studio,0,LOW_QUALITY_FLAG
+utt_1538,s3://india-speaks/raw/ur/utt_1538.wav,kn,83fc82ca,M,aaya namaste naam swagat,1.07,37.8,crowdsourced,0,LOW_QUALITY_FLAG
+utt_1540,s3://india-speaks/raw/kn/utt_1540.wav,mr,6301a579,Other,naam hu hai namaste aapka,4.94,30.79,crowdsourced,0,LOW_QUALITY_FLAG
+utt_1541,s3://india-speaks/raw/ta/utt_1541.wav,hi,d2496594,Other,,0.64,31.27,crowdsourced,0,LOW_QUALITY_FLAG
+utt_1542,s3://india-speaks/raw/mr/utt_1542.wav,bn,26d4150f,F,namaste dilli ho kaise hu se dilli hu,1.92,47.17,crowdsourced,0,LOW_QUALITY_FLAG
+utt_1543,s3://india-speaks/raw/ml/utt_1543.wav,hi,26632ac7,Other,dilli hu hai swagat aapka ho hu aaya hai,4.48,42.79,call-center,0,LOW_QUALITY_FLAG
+utt_1544,s3://india-speaks/raw/te/utt_1544.wav,pa,e9e3f8e6,Other,aapka aapka hai,1.72,42.78,call-center,0,LOW_QUALITY_FLAG
+utt_1546,s3://india-speaks/raw/kn/utt_1546.wav,ta,35ef65fd,F,mera swagat kaise aapka hai se hai swagat ho,1.02,59.2,crowdsourced,0,LOW_QUALITY_FLAG
+utt_1550,s3://india-speaks/raw/mr/utt_1550.wav,bn,1b92ed31,Other,kaise namaste hu aapka mera mera,0.59,31.0,call-center,0,LOW_QUALITY_FLAG
+utt_1553,s3://india-speaks/raw/ta/utt_1553.wav,mr,1a6ef362,Other,namaste ho hai se hai,4.28,23.93,crowdsourced,0,LOW_QUALITY_FLAG
+utt_1554,s3://india-speaks/raw/ur/utt_1554.wav,ur,2cb7a113,F,aapka dilli mera swagat,4.22,46.43,call-center,0,LOW_QUALITY_FLAG
+utt_1555,s3://india-speaks/raw/en/utt_1555.wav,ur,bc051c7b,Other,mera namaste hai hai swagat,4.63,33.92,studio,0,LOW_QUALITY_FLAG
+utt_1557,s3://india-speaks/raw/bn/utt_1557.wav,ml,4e5a3506,M,ho aaya namaste aaya se hu swagat swagat aaya,0.97,43.61,call-center,0,LOW_QUALITY_FLAG
+utt_1561,s3://india-speaks/raw/ml/utt_1561.wav,te,bf701bc4,F,namaste namaste hai hu se hai dilli,4.29,35.62,call-center,0,LOW_QUALITY_FLAG
+utt_1565,s3://india-speaks/raw/ta/utt_1565.wav,bn,7ecb27fd,Other,aaya aaya hai aapka hu kaise kaise swagat,2.91,25.51,call-center,0,LOW_QUALITY_FLAG
+utt_1568,s3://india-speaks/raw/ta/utt_1568.wav,te,802c5a8c,M,hai mera aapka swagat kaise swagat ho ho aaya,4.53,24.22,studio,0,LOW_QUALITY_FLAG
+utt_1570,s3://india-speaks/raw/mr/utt_1570.wav,te,671a15de,M,se mera hu namaste swagat hai aaya swagat,2.48,50.87,call-center,0,LOW_QUALITY_FLAG
+utt_1580,s3://india-speaks/raw/ur/utt_1580.wav,mr,0ebc0f79,F,ho se hai aaya naam kaise kaise,1.98,26.95,call-center,0,LOW_QUALITY_FLAG
+utt_1581,s3://india-speaks/raw/hi/utt_1581.wav,ta,8ffed207,M,kaise se aaya,1.4,46.87,call-center,0,LOW_QUALITY_FLAG
+utt_1582,s3://india-speaks/raw/ml/utt_1582.wav,ml,80120888,M,ho dilli swagat mera se se aaya aapka mera naam,3.8,43.45,crowdsourced,0,LOW_QUALITY_FLAG
+utt_1588,s3://india-speaks/raw/mr/utt_1588.wav,kn,e6d31145,M,aapka ho namaste mera aapka kaise hai hai mera hai,0.94,43.45,crowdsourced,0,LOW_QUALITY_FLAG
+utt_1593,s3://india-speaks/raw/gu/utt_1593.wav,hi,26c8b776,F,hai kaise swagat mera namaste se swagat kaise dilli hu,1.03,27.59,crowdsourced,0,LOW_QUALITY_FLAG
+utt_1594,s3://india-speaks/raw/kn/utt_1594.wav,ur,0a6d0750,F,hai kaise aapka aaya ho mera mera namaste aaya,1.63,44.95,studio,0,LOW_QUALITY_FLAG
+utt_1603,s3://india-speaks/raw/kn/utt_1603.wav,kn,956bb7ab,F,swagat aaya swagat,1.3,38.52,crowdsourced,0,LOW_QUALITY_FLAG
+utt_1604,s3://india-speaks/raw/en/utt_1604.wav,te,554c6cca,M,,2.36,26.36,call-center,0,LOW_QUALITY_FLAG
+utt_1605,s3://india-speaks/raw/ur/utt_1605.wav,gu,29b4442c,M,hu hu se namaste hu aaya swagat ho mera,2.45,53.61,crowdsourced,0,LOW_QUALITY_FLAG
+utt_1606,s3://india-speaks/raw/te/utt_1606.wav,ur,6948456d,Other,naam aaya ho aaya dilli aaya se aapka hu,2.24,34.44,crowdsourced,0,LOW_QUALITY_FLAG
+utt_1611,s3://india-speaks/raw/pa/utt_1611.wav,ur,2db7e83b,F,aapka naam dilli swagat mera swagat dilli swagat,2.49,57.08,crowdsourced,0,LOW_QUALITY_FLAG
+utt_1613,s3://india-speaks/raw/gu/utt_1613.wav,te,423a34e1,M,namaste se dilli ho hai se ho swagat hai,0.78,40.35,studio,0,LOW_QUALITY_FLAG
+utt_1614,s3://india-speaks/raw/kn/utt_1614.wav,bn,d93fb4cb,F,naam hai dilli naam namaste dilli,2.23,40.4,crowdsourced,0,LOW_QUALITY_FLAG
+utt_1617,s3://india-speaks/raw/pa/utt_1617.wav,mr,7777a784,F,aaya se hu aaya,2.9,58.39,crowdsourced,0,LOW_QUALITY_FLAG
+utt_1618,s3://india-speaks/raw/mr/utt_1618.wav,te,9d5bd9b3,Other,hai naam aaya,4.88,33.74,studio,0,LOW_QUALITY_FLAG
+utt_1619,s3://india-speaks/raw/mr/utt_1619.wav,ur,4162db03,F,aaya kaise swagat swagat namaste,4.31,23.23,crowdsourced,0,LOW_QUALITY_FLAG
+utt_1622,s3://india-speaks/raw/ur/utt_1622.wav,gu,41437d24,F,hai dilli hai aaya hai hai,2.12,39.9,studio,0,LOW_QUALITY_FLAG
+utt_1623,s3://india-speaks/raw/gu/utt_1623.wav,hi,9cb7892f,Other,aapka se namaste naam dilli hu swagat aapka hu,3.6,57.93,call-center,0,LOW_QUALITY_FLAG
+utt_1625,s3://india-speaks/raw/en/utt_1625.wav,te,2ec375a9,M,hu aapka hai mera swagat,0.58,23.2,call-center,0,LOW_QUALITY_FLAG
+utt_1627,s3://india-speaks/raw/ta/utt_1627.wav,kn,41295756,Other,aaya kaise hu aapka aapka ho,2.52,31.98,studio,0,LOW_QUALITY_FLAG
+utt_1631,s3://india-speaks/raw/en/utt_1631.wav,ur,d2c357f5,Other,namaste naam hai,1.06,56.23,crowdsourced,0,LOW_QUALITY_FLAG
+utt_1632,s3://india-speaks/raw/ur/utt_1632.wav,ta,a0df5c64,F,kaise aapka namaste swagat aapka kaise swagat,2.82,46.33,crowdsourced,0,LOW_QUALITY_FLAG
+utt_1642,s3://india-speaks/raw/en/utt_1642.wav,pa,d1c8c172,M,kaise hu aaya hai kaise,0.51,47.34,crowdsourced,0,LOW_QUALITY_FLAG
+utt_1643,s3://india-speaks/raw/gu/utt_1643.wav,ml,5a8c00bf,F,swagat swagat swagat kaise dilli mera kaise se hu,1.75,39.81,studio,0,LOW_QUALITY_FLAG
+utt_1644,s3://india-speaks/raw/gu/utt_1644.wav,mr,ff32f4fa,F,ho naam swagat dilli aaya hai aapka,0.99,36.97,call-center,0,LOW_QUALITY_FLAG
+utt_1645,s3://india-speaks/raw/ur/utt_1645.wav,bn,2d6b14fa,Other,hai hai hai naam naam,4.02,56.55,crowdsourced,0,LOW_QUALITY_FLAG
+utt_1651,s3://india-speaks/raw/ur/utt_1651.wav,hi,fa85e06d,Other,se namaste hu aaya ho swagat mera hu namaste,1.6,34.89,call-center,0,LOW_QUALITY_FLAG
+utt_1652,s3://india-speaks/raw/pa/utt_1652.wav,ml,cc86af10,M,mera swagat ho ho ho aapka,4.34,28.73,call-center,0,LOW_QUALITY_FLAG
+utt_1654,s3://india-speaks/raw/ml/utt_1654.wav,ta,30228131,Other,,1.24,58.55,call-center,0,LOW_QUALITY_FLAG
+utt_1657,s3://india-speaks/raw/hi/utt_1657.wav,te,8b2f11e4,Other,ho dilli se,1.64,54.34,call-center,0,LOW_QUALITY_FLAG
+utt_1661,s3://india-speaks/raw/gu/utt_1661.wav,mr,a90cb966,Other,aapka mera swagat kaise se se mera,2.91,24.24,crowdsourced,0,LOW_QUALITY_FLAG
+utt_1662,s3://india-speaks/raw/bn/utt_1662.wav,en,80e6561d,M,ho dilli namaste kaise hai mera dilli,0.78,43.53,studio,0,LOW_QUALITY_FLAG
+utt_1663,s3://india-speaks/raw/te/utt_1663.wav,gu,36be5e1b,Other,ho naam hai mera swagat,0.99,55.19,crowdsourced,-1,AUDIO_CORRUPT_SIMULATED
+utt_1671,s3://india-speaks/raw/hi/utt_1671.wav,ta,6b539989,Other,namaste mera kaise dilli,0.92,32.68,call-center,0,LOW_QUALITY_FLAG
+utt_1674,s3://india-speaks/raw/pa/utt_1674.wav,kn,e5f6996f,F,naam aapka dilli ho,4.44,44.92,studio,0,LOW_QUALITY_FLAG
+utt_1675,s3://india-speaks/raw/bn/utt_1675.wav,en,4b95d08e,Other,aaya hai se naam se ho hai ho swagat dilli,4.18,40.77,studio,0,LOW_QUALITY_FLAG
+utt_1676,s3://india-speaks/raw/bn/utt_1676.wav,mr,eab964ca,M,ho dilli naam,4.68,57.85,studio,0,LOW_QUALITY_FLAG
+utt_1677,s3://india-speaks/raw/gu/utt_1677.wav,en,c722a7c3,M,dilli dilli aaya mera mera,5.0,46.74,call-center,0,LOW_QUALITY_FLAG
+utt_1678,s3://india-speaks/raw/ur/utt_1678.wav,hi,6721bec5,Other,se hai aaya se hai naam aapka aapka,2.76,29.4,crowdsourced,0,LOW_QUALITY_FLAG
+utt_1679,s3://india-speaks/raw/ta/utt_1679.wav,en,fa29c18e,Other,hai naam dilli dilli naam ho dilli,2.07,33.14,call-center,0,LOW_QUALITY_FLAG
+utt_1680,s3://india-speaks/raw/bn/utt_1680.wav,bn,a4761bb8,M,,4.34,44.96,studio,0,LOW_QUALITY_FLAG
+utt_1681,s3://india-speaks/raw/en/utt_1681.wav,ml,3efddcc3,M,se dilli ho swagat hu,3.44,29.69,studio,0,LOW_QUALITY_FLAG
+utt_1684,s3://india-speaks/raw/te/utt_1684.wav,hi,0c99f21d,M,ho kaise aaya swagat se,2.35,58.74,call-center,0,LOW_QUALITY_FLAG
+utt_1686,s3://india-speaks/raw/gu/utt_1686.wav,ml,7e38eb2d,Other,hu aapka se hu hai hu,2.76,27.0,studio,0,LOW_QUALITY_FLAG
+utt_1687,s3://india-speaks/raw/mr/utt_1687.wav,gu,e2393d41,F,aapka kaise naam,4.0,49.76,crowdsourced,0,LOW_QUALITY_FLAG
+utt_1688,s3://india-speaks/raw/en/utt_1688.wav,ur,c90f06e4,M,namaste kaise swagat hai se ho namaste hai naam swagat,4.87,52.11,crowdsourced,0,LOW_QUALITY_FLAG
+utt_1691,s3://india-speaks/raw/pa/utt_1691.wav,te,9f4d06e8,F,hai hu hai swagat aapka aaya mera aaya dilli,3.72,30.78,crowdsourced,0,LOW_QUALITY_FLAG
+utt_1696,s3://india-speaks/raw/kn/utt_1696.wav,hi,a0b91a1b,M,naam hai se se se kaise hu hai namaste,1.59,42.48,studio,0,LOW_QUALITY_FLAG
+utt_1697,s3://india-speaks/raw/kn/utt_1697.wav,pa,3d9fcf66,F,hu swagat hai hai aapka ho namaste hu,1.96,29.19,call-center,1,AUDIO_CORRUPT_SIMULATED
+utt_1698,s3://india-speaks/raw/mr/utt_1698.wav,en,b6e40cb0,F,aaya swagat mera ho namaste namaste aapka namaste hai,4.95,28.96,crowdsourced,0,LOW_QUALITY_FLAG
+utt_1700,s3://india-speaks/raw/pa/utt_1700.wav,hi,c2daec5f,F,hai swagat hai hu hai aaya aaya aapka namaste,2.47,38.92,studio,0,LOW_QUALITY_FLAG
+utt_1702,s3://india-speaks/raw/pa/utt_1702.wav,ml,44c5c1c3,Other,hu ho hai swagat aaya,1.73,27.18,call-center,0,LOW_QUALITY_FLAG
+utt_1704,s3://india-speaks/raw/ta/utt_1704.wav,mr,a9ecac99,F,namaste kaise dilli ho mera aapka mera,0.63,27.57,studio,0,LOW_QUALITY_FLAG
+utt_1705,s3://india-speaks/raw/pa/utt_1705.wav,ur,ec215e56,F,se hai namaste hai ho dilli se aaya,1.76,45.74,studio,0,LOW_QUALITY_FLAG
+utt_1712,s3://india-speaks/raw/ur/utt_1712.wav,bn,f24c374b,M,naam kaise se namaste aapka hai swagat mera aaya hai,2.23,50.07,studio,0,LOW_QUALITY_FLAG
+utt_1715,s3://india-speaks/raw/en/utt_1715.wav,ta,16e6963e,M,hu hai hai swagat,4.23,46.35,call-center,0,LOW_QUALITY_FLAG
+utt_1716,s3://india-speaks/raw/en/utt_1716.wav,kn,b0623e3b,M,,1.7,52.88,call-center,0,LOW_QUALITY_FLAG
+utt_1719,s3://india-speaks/raw/kn/utt_1719.wav,bn,94fd5539,Other,se kaise swagat se hu aapka aaya kaise,2.97,50.61,studio,0,LOW_QUALITY_FLAG
+utt_1721,s3://india-speaks/raw/pa/utt_1721.wav,mr,9923ed1e,M,ho hu aapka hu naam hai aapka hu hu,1.93,34.82,studio,0,LOW_QUALITY_FLAG
+utt_1723,s3://india-speaks/raw/bn/utt_1723.wav,te,bcfb4ec9,F,aapka hai hai,4.81,53.67,call-center,0,LOW_QUALITY_FLAG
+utt_1725,s3://india-speaks/raw/gu/utt_1725.wav,kn,10bf117d,M,kaise se hai,2.29,21.46,call-center,0,LOW_QUALITY_FLAG
+utt_1726,s3://india-speaks/raw/kn/utt_1726.wav,kn,bf370b4f,Other,kaise hu hai mera hai,0.65,42.3,call-center,0,LOW_QUALITY_FLAG
+utt_1729,s3://india-speaks/raw/ta/utt_1729.wav,en,0fed93c4,F,naam mera swagat ho,1.36,42.14,crowdsourced,-1,AUDIO_CORRUPT_SIMULATED
+utt_1733,s3://india-speaks/raw/pa/utt_1733.wav,bn,be2dc298,F,se hai hu hai,3.99,21.64,call-center,0,LOW_QUALITY_FLAG
+utt_1735,s3://india-speaks/raw/kn/utt_1735.wav,kn,3023ceb4,F,naam namaste se,3.15,54.63,studio,0,LOW_QUALITY_FLAG
+utt_1736,s3://india-speaks/raw/gu/utt_1736.wav,mr,54407823,F,kaise dilli dilli se kaise se hai dilli,3.85,25.81,studio,0,LOW_QUALITY_FLAG
+utt_1737,s3://india-speaks/raw/mr/utt_1737.wav,mr,cfe920cb,M,hai hai aaya namaste mera mera namaste namaste,1.06,50.26,studio,0,LOW_QUALITY_FLAG
+utt_1739,s3://india-speaks/raw/hi/utt_1739.wav,pa,ef7e0130,M,hu hai hu,1.68,36.23,studio,0,LOW_QUALITY_FLAG
+utt_1741,s3://india-speaks/raw/mr/utt_1741.wav,mr,77d3eb28,Other,hai kaise se,4.54,55.0,call-center,0,LOW_QUALITY_FLAG
+utt_1746,s3://india-speaks/raw/ur/utt_1746.wav,mr,df02d206,Other,hu namaste swagat hu dilli naam naam naam dilli dilli,3.71,28.09,crowdsourced,0,LOW_QUALITY_FLAG
+utt_1749,s3://india-speaks/raw/pa/utt_1749.wav,en,2c1f6f57,F,hai ho hai,1.93,27.45,studio,0,LOW_QUALITY_FLAG
+utt_1752,s3://india-speaks/raw/ml/utt_1752.wav,mr,55135f9e,F,aapka dilli hai dilli se naam,3.79,42.23,crowdsourced,0,LOW_QUALITY_FLAG
+utt_1753,s3://india-speaks/raw/pa/utt_1753.wav,bn,311907e8,Other,ho se se hu aapka ho hai,1.41,56.61,studio,0,LOW_QUALITY_FLAG
+utt_1754,s3://india-speaks/raw/ml/utt_1754.wav,bn,cbcfc2c2,F,aaya kaise hu aapka kaise dilli hai aapka mera,0.71,59.31,call-center,0,LOW_QUALITY_FLAG
+utt_1756,s3://india-speaks/raw/te/utt_1756.wav,ta,8ac271c6,F,dilli aaya aapka hai hai,3.32,37.06,crowdsourced,0,LOW_QUALITY_FLAG
+utt_1757,s3://india-speaks/raw/ta/utt_1757.wav,gu,61b90212,M,,3.88,22.9,call-center,0,LOW_QUALITY_FLAG
+utt_1758,s3://india-speaks/raw/en/utt_1758.wav,bn,9585828c,F,namaste swagat namaste aapka,1.88,45.72,studio,0,LOW_QUALITY_FLAG
+utt_1761,s3://india-speaks/raw/te/utt_1761.wav,gu,a6c25fb9,M,aapka hu kaise,1.79,52.31,crowdsourced,0,LOW_QUALITY_FLAG
+utt_1762,s3://india-speaks/raw/gu/utt_1762.wav,bn,49b7e40d,F,hu hai hai hai hai hu namaste hai naam naam,2.18,24.86,call-center,0,LOW_QUALITY_FLAG
+utt_1766,s3://india-speaks/raw/te/utt_1766.wav,te,1e96f31e,M,aapka ho aapka naam namaste namaste ho hai dilli,3.53,28.98,crowdsourced,0,LOW_QUALITY_FLAG
+utt_1767,s3://india-speaks/raw/pa/utt_1767.wav,pa,890739e6,M,namaste swagat se namaste mera namaste kaise swagat namaste,3.97,51.9,crowdsourced,0,LOW_QUALITY_FLAG
+utt_1769,s3://india-speaks/raw/en/utt_1769.wav,hi,6630df78,Other,kaise swagat hai,4.43,41.26,call-center,0,LOW_QUALITY_FLAG
+utt_1771,s3://india-speaks/raw/gu/utt_1771.wav,ml,a117b0d2,F,naam kaise ho naam dilli dilli hu hai mera ho,1.16,49.25,studio,0,LOW_QUALITY_FLAG
+utt_1773,s3://india-speaks/raw/pa/utt_1773.wav,pa,fff35167,F,hai hai ho naam namaste hai namaste swagat hai dilli,4.79,57.31,call-center,0,LOW_QUALITY_FLAG
+utt_1774,s3://india-speaks/raw/gu/utt_1774.wav,ta,7a4851c4,F,se aapka hai aaya se aapka swagat namaste kaise mera,2.39,51.97,studio,0,LOW_QUALITY_FLAG
+utt_1778,s3://india-speaks/raw/ta/utt_1778.wav,mr,6cbe06d9,M,hai namaste hai swagat naam hai hu namaste,2.97,30.28,crowdsourced,0,LOW_QUALITY_FLAG
+utt_1783,s3://india-speaks/raw/mr/utt_1783.wav,bn,987972d0,M,swagat dilli hu dilli aapka,4.91,22.99,studio,0,LOW_QUALITY_FLAG
+utt_1784,s3://india-speaks/raw/ur/utt_1784.wav,hi,512bdabf,Other,mera swagat hu ho dilli dilli namaste ho hu dilli,1.01,44.07,call-center,0,LOW_QUALITY_FLAG
+utt_1785,s3://india-speaks/raw/mr/utt_1785.wav,te,bb6a42ea,F,,4.64,54.85,call-center,0,LOW_QUALITY_FLAG
+utt_1789,s3://india-speaks/raw/te/utt_1789.wav,ml,4278fb66,M,ho ho kaise hu se,3.22,22.07,call-center,-1,AUDIO_CORRUPT_SIMULATED
+utt_1791,s3://india-speaks/raw/hi/utt_1791.wav,kn,59067c70,Other,aaya se hu dilli hai ho kaise mera naam,1.61,45.66,call-center,0,LOW_QUALITY_FLAG
+utt_1792,s3://india-speaks/raw/ta/utt_1792.wav,en,8d078701,F,hu dilli naam mera naam naam,3.43,53.31,studio,0,LOW_QUALITY_FLAG
+utt_1795,s3://india-speaks/raw/hi/utt_1795.wav,mr,fd0740e4,M,aapka swagat naam aaya aapka,3.11,51.72,studio,0,LOW_QUALITY_FLAG
+utt_1796,s3://india-speaks/raw/ta/utt_1796.wav,ur,ced4e3f1,M,hai aaya kaise hai,2.4,25.44,crowdsourced,0,LOW_QUALITY_FLAG
+utt_1797,s3://india-speaks/raw/bn/utt_1797.wav,en,2924e153,F,hai namaste namaste hai ho dilli,3.06,27.41,crowdsourced,0,LOW_QUALITY_FLAG
+utt_1801,s3://india-speaks/raw/mr/utt_1801.wav,mr,f802f2e0,Other,namaste mera kaise aapka dilli dilli hai,2.66,43.99,crowdsourced,0,LOW_QUALITY_FLAG
+utt_1802,s3://india-speaks/raw/hi/utt_1802.wav,gu,1506451b,F,hai dilli naam mera aaya hai namaste hai mera,1.33,36.3,call-center,0,LOW_QUALITY_FLAG
+utt_1806,s3://india-speaks/raw/hi/utt_1806.wav,ta,c1041d5d,Other,hai ho hai mera hu hu kaise dilli kaise mera,4.08,38.41,crowdsourced,0,LOW_QUALITY_FLAG
+utt_1811,s3://india-speaks/raw/gu/utt_1811.wav,gu,5ce659fc,Other,swagat aaya hai hu swagat swagat hai namaste namaste,0.75,23.6,crowdsourced,0,LOW_QUALITY_FLAG
+utt_1819,s3://india-speaks/raw/hi/utt_1819.wav,ta,58063e91,M,kaise hai se namaste swagat,1.56,32.96,studio,0,LOW_QUALITY_FLAG
+utt_1820,s3://india-speaks/raw/gu/utt_1820.wav,pa,2be546e5,M,swagat naam ho,3.78,49.4,crowdsourced,0,LOW_QUALITY_FLAG
+utt_1822,s3://india-speaks/raw/bn/utt_1822.wav,ta,e44cbc87,Other,hu hai dilli swagat mera dilli aapka,4.72,49.18,studio,0,LOW_QUALITY_FLAG
+utt_1824,s3://india-speaks/raw/mr/utt_1824.wav,en,3c2909b3,F,dilli kaise hai hai ho se hai mera,1.77,53.71,call-center,0,LOW_QUALITY_FLAG
+utt_1826,s3://india-speaks/raw/te/utt_1826.wav,ta,e4a43057,Other,mera mera hai aapka,4.22,30.68,call-center,0,LOW_QUALITY_FLAG
+utt_1827,s3://india-speaks/raw/gu/utt_1827.wav,te,2b504ca4,Other,se naam ho naam se hu hu hai,1.87,33.47,studio,0,LOW_QUALITY_FLAG
+utt_1829,s3://india-speaks/raw/hi/utt_1829.wav,hi,7a273e1b,Other,swagat hai naam namaste se,1.68,58.36,crowdsourced,0,LOW_QUALITY_FLAG
+utt_1833,s3://india-speaks/raw/mr/utt_1833.wav,mr,0d4c2c67,Other,kaise naam naam hai,0.76,34.91,call-center,0,LOW_QUALITY_FLAG
+utt_1835,s3://india-speaks/raw/hi/utt_1835.wav,kn,38f13b9a,F,aapka hai ho aapka aapka hai hai namaste aaya,4.09,37.92,studio,0,LOW_QUALITY_FLAG
+utt_1838,s3://india-speaks/raw/bn/utt_1838.wav,pa,2badb707,F,ho dilli hu namaste aapka ho aapka mera aapka,0.5,37.69,crowdsourced,0,LOW_QUALITY_FLAG
+utt_1842,s3://india-speaks/raw/mr/utt_1842.wav,kn,a3819259,Other,se hai aaya aapka kaise,4.89,35.74,call-center,0,LOW_QUALITY_FLAG
+utt_1845,s3://india-speaks/raw/gu/utt_1845.wav,mr,ae85f4fb,Other,hai dilli dilli,4.93,53.25,call-center,0,LOW_QUALITY_FLAG
+utt_1847,s3://india-speaks/raw/ta/utt_1847.wav,ta,595fd202,Other,naam ho aaya,0.76,52.98,crowdsourced,0,LOW_QUALITY_FLAG
+utt_1849,s3://india-speaks/raw/hi/utt_1849.wav,gu,27024d93,Other,kaise mera hai hu naam hai aaya,2.24,32.34,studio,0,LOW_QUALITY_FLAG
+utt_1854,s3://india-speaks/raw/mr/utt_1854.wav,ta,df79e288,M,hai hu swagat swagat aapka aaya dilli,2.21,27.72,call-center,0,LOW_QUALITY_FLAG
+utt_1855,s3://india-speaks/raw/en/utt_1855.wav,mr,87d406d6,F,hai hai hai ho ho hu aaya hai,1.37,23.6,studio,0,LOW_QUALITY_FLAG
+utt_1856,s3://india-speaks/raw/gu/utt_1856.wav,kn,88c27325,Other,dilli ho dilli kaise hai kaise hai aapka hai hai,1.38,58.58,studio,0,LOW_QUALITY_FLAG
+utt_1858,s3://india-speaks/raw/kn/utt_1858.wav,hi,8aba80b0,Other,mera aapka naam namaste,0.95,55.27,studio,0,LOW_QUALITY_FLAG
+utt_1861,s3://india-speaks/raw/te/utt_1861.wav,kn,7638d123,Other,mera hai hai hai swagat,2.51,48.08,crowdsourced,0,LOW_QUALITY_FLAG
+utt_1865,s3://india-speaks/raw/ml/utt_1865.wav,gu,d3ee5ce5,M,aapka aaya aapka,1.96,34.76,studio,0,LOW_QUALITY_FLAG
+utt_1869,s3://india-speaks/raw/gu/utt_1869.wav,ur,1e45159c,F,se kaise ho aaya aaya ho,0.87,27.59,crowdsourced,0,LOW_QUALITY_FLAG
+utt_1870,s3://india-speaks/raw/ur/utt_1870.wav,mr,ff21acb5,Other,se aapka kaise mera aapka swagat naam se kaise,2.68,22.5,crowdsourced,0,LOW_QUALITY_FLAG
+utt_1877,s3://india-speaks/raw/mr/utt_1877.wav,pa,d45eb9e1,M,hai se aapka aapka hai se ho mera naam kaise,2.78,47.16,call-center,0,LOW_QUALITY_FLAG
+utt_1880,s3://india-speaks/raw/kn/utt_1880.wav,hi,4f15fedc,M,swagat aapka aapka namaste swagat mera ho,3.2,54.2,call-center,0,LOW_QUALITY_FLAG
+utt_1881,s3://india-speaks/raw/bn/utt_1881.wav,ml,05be0fb7,F,mera naam naam,3.93,51.12,call-center,0,LOW_QUALITY_FLAG
+utt_1884,s3://india-speaks/raw/mr/utt_1884.wav,mr,e48afdb4,F,,1.19,51.96,studio,0,LOW_QUALITY_FLAG
+utt_1887,s3://india-speaks/raw/ur/utt_1887.wav,kn,67e692ad,Other,aaya namaste kaise se swagat dilli aapka se,4.37,51.53,studio,0,LOW_QUALITY_FLAG
+utt_1889,s3://india-speaks/raw/en/utt_1889.wav,ur,4a5614df,F,aapka namaste kaise,3.25,55.68,crowdsourced,0,LOW_QUALITY_FLAG
+utt_1894,s3://india-speaks/raw/ta/utt_1894.wav,te,fe8d0598,M,swagat aapka swagat swagat swagat kaise,4.63,40.39,crowdsourced,0,LOW_QUALITY_FLAG
+utt_1895,s3://india-speaks/raw/pa/utt_1895.wav,gu,85925528,Other,swagat dilli hai se ho hai,1.71,51.15,call-center,0,LOW_QUALITY_FLAG
+utt_1898,s3://india-speaks/raw/mr/utt_1898.wav,bn,6f009403,Other,hai naam hai kaise hai se,2.93,54.96,call-center,0,LOW_QUALITY_FLAG
+utt_1903,s3://india-speaks/raw/kn/utt_1903.wav,bn,e2b27bb4,M,aapka hai dilli naam kaise hai hai aaya dilli,2.2,27.19,crowdsourced,0,LOW_QUALITY_FLAG
+utt_1909,s3://india-speaks/raw/ta/utt_1909.wav,ur,97b7914d,M,se se hu hai naam,0.88,50.37,call-center,0,LOW_QUALITY_FLAG
+utt_1910,s3://india-speaks/raw/gu/utt_1910.wav,ur,1fd815a4,M,naam aapka dilli,2.04,51.52,call-center,0,LOW_QUALITY_FLAG
+utt_1911,s3://india-speaks/raw/hi/utt_1911.wav,pa,01b8f213,M,aapka aapka hai se,4.86,24.17,call-center,0,LOW_QUALITY_FLAG
+utt_1914,s3://india-speaks/raw/pa/utt_1914.wav,kn,b4773ddd,M,namaste ho naam mera hai hu aapka,2.29,27.16,studio,0,LOW_QUALITY_FLAG
+utt_1916,s3://india-speaks/raw/pa/utt_1916.wav,ta,58f7d39c,Other,namaste hu aapka kaise,4.43,21.27,studio,0,LOW_QUALITY_FLAG
+utt_1917,s3://india-speaks/raw/mr/utt_1917.wav,ml,369d1de4,Other,aapka se hai,3.65,27.64,call-center,0,LOW_QUALITY_FLAG
+utt_1919,s3://india-speaks/raw/ur/utt_1919.wav,ml,3918cdf4,M,swagat aaya ho mera se hu hai,4.26,29.77,studio,0,LOW_QUALITY_FLAG
+utt_1921,s3://india-speaks/raw/pa/utt_1921.wav,hi,b5e47951,M,namaste hu aaya aapka ho hu,2.03,53.52,studio,0,LOW_QUALITY_FLAG
+utt_1922,s3://india-speaks/raw/kn/utt_1922.wav,gu,a9595fa3,Other,se namaste kaise aaya,1.09,49.72,crowdsourced,-1,AUDIO_CORRUPT_SIMULATED
+utt_1925,s3://india-speaks/raw/gu/utt_1925.wav,gu,c6df38a9,Other,hai aapka hu,4.89,58.2,studio,0,LOW_QUALITY_FLAG
+utt_1927,s3://india-speaks/raw/pa/utt_1927.wav,pa,87ed7b78,Other,namaste mera hu aapka se hu aapka aaya kaise,3.28,34.68,studio,0,LOW_QUALITY_FLAG
+utt_1929,s3://india-speaks/raw/bn/utt_1929.wav,te,cb799642,M,,1.52,23.73,crowdsourced,0,LOW_QUALITY_FLAG
+utt_1935,s3://india-speaks/raw/pa/utt_1935.wav,ml,5deb3b09,M,namaste naam ho hai ho ho hai kaise,2.52,37.71,crowdsourced,0,LOW_QUALITY_FLAG
+utt_1939,s3://india-speaks/raw/en/utt_1939.wav,ur,c960a1fc,Other,ho kaise hai ho kaise se hai aapka,2.33,33.24,crowdsourced,0,LOW_QUALITY_FLAG
+utt_1945,s3://india-speaks/raw/kn/utt_1945.wav,pa,71de0547,Other,aapka aaya hai aapka,1.4,48.12,crowdsourced,0,LOW_QUALITY_FLAG
+utt_1949,s3://india-speaks/raw/bn/utt_1949.wav,ml,dcc4c6bc,F,swagat hu hu hu swagat hai naam hu,3.17,29.79,crowdsourced,0,LOW_QUALITY_FLAG
+utt_1950,s3://india-speaks/raw/en/utt_1950.wav,bn,fc30f10d,Other,,3.62,22.21,call-center,0,LOW_QUALITY_FLAG
+utt_1952,s3://india-speaks/raw/ml/utt_1952.wav,ml,bc9ec7e5,F,aapka naam aaya,3.3,38.46,call-center,0,LOW_QUALITY_FLAG
+utt_1953,s3://india-speaks/raw/te/utt_1953.wav,en,ebf68543,M,,1.21,21.64,studio,-1,EMPTY_AFTER_NORMALIZATION
+utt_1954,s3://india-speaks/raw/pa/utt_1954.wav,gu,2ad378d3,F,aaya dilli kaise hai naam aaya aapka,4.35,26.91,studio,0,LOW_QUALITY_FLAG
+utt_1957,s3://india-speaks/raw/pa/utt_1957.wav,pa,fa4667b0,Other,swagat kaise hu naam dilli namaste hu mera naam,2.45,27.08,crowdsourced,0,LOW_QUALITY_FLAG
+utt_1958,s3://india-speaks/raw/ta/utt_1958.wav,mr,cce387a6,M,aapka se hai aaya ho,4.73,41.28,crowdsourced,0,LOW_QUALITY_FLAG
+utt_1961,s3://india-speaks/raw/kn/utt_1961.wav,te,28f2bc1d,F,hai kaise aapka,4.16,50.66,studio,0,LOW_QUALITY_FLAG
+utt_1962,s3://india-speaks/raw/ml/utt_1962.wav,ta,bde18a65,F,namaste namaste namaste kaise ho hai dilli kaise aaya,1.6,23.74,call-center,0,LOW_QUALITY_FLAG
+utt_1966,s3://india-speaks/raw/bn/utt_1966.wav,mr,d9840137,F,kaise aaya namaste hai swagat,1.56,48.05,call-center,0,LOW_QUALITY_FLAG
+utt_1967,s3://india-speaks/raw/pa/utt_1967.wav,hi,eea87064,F,swagat hai namaste namaste aapka dilli kaise,2.5,33.29,call-center,0,LOW_QUALITY_FLAG
+utt_1970,s3://india-speaks/raw/hi/utt_1970.wav,gu,18f30497,M,naam kaise swagat swagat ho hai dilli swagat aapka se,2.0,40.83,crowdsourced,0,LOW_QUALITY_FLAG
+utt_1979,s3://india-speaks/raw/hi/utt_1979.wav,gu,18737fcb,M,,1.59,34.08,crowdsourced,0,LOW_QUALITY_FLAG
+utt_1983,s3://india-speaks/raw/en/utt_1983.wav,bn,2c4f7d47,M,namaste dilli kaise naam namaste ho hu se aapka namaste,2.25,48.37,crowdsourced,0,LOW_QUALITY_FLAG
+utt_1985,s3://india-speaks/raw/pa/utt_1985.wav,en,596ce84b,M,hai kaise ho hai,1.25,45.62,crowdsourced,0,LOW_QUALITY_FLAG
+utt_1986,s3://india-speaks/raw/ur/utt_1986.wav,gu,ed1bfb3d,Other,se aapka hai,1.67,56.87,studio,0,LOW_QUALITY_FLAG
+utt_1989,s3://india-speaks/raw/hi/utt_1989.wav,mr,54745347,F,mera namaste hai se hai swagat hai hai,2.15,37.05,studio,0,LOW_QUALITY_FLAG
+utt_1991,s3://india-speaks/raw/te/utt_1991.wav,te,99bcfc9d,M,kaise hai dilli hai kaise,1.45,28.41,studio,-1,AUDIO_CORRUPT_SIMULATED
+utt_1993,s3://india-speaks/raw/bn/utt_1993.wav,bn,8841d049,M,aaya dilli namaste aapka ho,3.42,38.12,call-center,0,LOW_QUALITY_FLAG
+utt_1996,s3://india-speaks/raw/en/utt_1996.wav,bn,6bb8e4aa,M,se swagat ho hai ho aaya aaya aaya kaise,0.64,53.6,studio,0,LOW_QUALITY_FLAG
+utt_1999,s3://india-speaks/raw/mr/utt_1999.wav,ur,91988d9c,M,,4.63,53.89,crowdsourced,0,LOW_QUALITY_FLAG
