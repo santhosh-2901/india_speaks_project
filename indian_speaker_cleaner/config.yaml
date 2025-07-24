@@ -1,0 +1,20 @@
+
+validation_params:
+  # Maximum audio duration in seconds. Files longer than this will be rejected.
+  max_duration_sec: 15.0
+  # Minimum audio duration in seconds. Files shorter than this will be rejected.
+  min_duration_sec: 0.5
+  # The required prefix for all audio paths.
+  audio_path_prefix: "s3://india-speaks/raw/"
+
+text_params:
+  # Characters allowed in the final normalized transcript.
+  # Note: \ is escaped for the regex engine. Non-verbal tokens like [noise] are handled separately.
+  allowed_punctuation_regex: "[^ a-z0-9.,?'!\\-;:’]"
+  # Unicode normalization form to apply.
+  unicode_form: "NFC"
+
+# Parameters for simulating audio file checks
+simulation_params:
+  # The probability (0.0 to 1.0) that a given audio file is marked as "corrupt".
+  corruption_failure_rate: 0.02
