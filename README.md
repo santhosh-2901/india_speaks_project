@@ -1,6 +1,6 @@
-India Speaks Data Preprocessing Pipeline
+**India Speaks Data Preprocessing Pipeline
 This repository contains india_speaks_cleaner, a Python package designed to validate and preprocess multilingual audio-text data for ASR/TTS model training at India Speaks.
-
+**
 The pipeline takes a raw metadata CSV as input, validates each entry against a set of rules based on the official IndiaSpeaks_Data_Standards.pdf, normalizes the transcriptions according to language-specific standards, and outputs two files: train_ready.csv for clean data and rejected.csv for problematic data.
 
 Features
@@ -17,7 +17,7 @@ Robust Validation: Checks for missing transcriptions, invalid audio paths, exces
 Audio File Simulation: Includes stubs to simulate audio file validation (e.g., corruption checks) without requiring actual file access.
 
 Comprehensive Logging: Logs progress and errors for better monitoring during execution.
-
+**
 Project Structure
 india_speaks_project/
 ├── india_speaks_cleaner/
@@ -31,7 +31,7 @@ india_speaks_project/
 │   └── test_text_normalizer.py
 ├── README.md
 └── requirements.txt
-
+**
 Setup
 Clone the repository:
 
